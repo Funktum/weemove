@@ -1,0 +1,14 @@
+---
+layout: page
+title: Archive
+description: Blog archive
+---
+
+{%- for post in site.posts -%}
+<article>
+  <a href="{{ post.url | relative_url }}">
+    <div>{{ post.title | escape }}</div>
+    <div>{{ post.date | date: site.date_format }}</div>
+  </a>
+</article>
+{%- endfor -%}

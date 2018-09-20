@@ -1,0 +1,44 @@
+# Site settings
+title: Title
+logo: https://placeholdit.co//i/100x36
+email: hello@example.com
+description: Awesome page description
+baseurl: ""
+url: "https://example.com"
+# google_analytics: UA-XXXXXXX-Y
+date_format: "%b %-d, %Y"
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - blog/index.html
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title
+
+# Blog settings
+paginate: 10
+paginate_path: "/blog/page/:num/"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://placeholdit.co//i/1280x800
+
+# Disqus - enable for commenting on blog
+# disqus:
+#   shortname: EXAMPLE
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag

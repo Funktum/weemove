@@ -1,0 +1,31 @@
+<header>
+  <div>
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    {%- assign first_path = page_paths | first -%}
+    <a href="{{ "/" | relative_url }}">
+      <img src="{{ site.logo }}" alt="{{ site.title | escape }}" height="36" />
+    </a>
+    {%- if page_paths -%}
+      <nav>
+        {%- assign first_page = site.pages | where: "path", first_path | first -%}
+        <a class="{% if page.url == '/' %}active{% endif %}" href="{{ first_page.url | relative_url }}">{{ first_page.title_nav | escape }}</a>
+
+        {%- for path in page_paths | offset: 1 -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.title_nav -%}
+            <a class="{% if page.url contains my_page.url %}active{% endif %}" href="{{ my_page.url | relative_url }}">{{ my_page.title_nav | escape }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      </nav>
+    {%- endif -%}
+  </div>
+</header>
+
+{%- if page.hero_image -%}
+<div style="background-color: {{ page.hero_bg }}">
+  <div>
+    <img src="{{ page.hero_image }}">
+  </div>
+</div>
+{%- endif -%}

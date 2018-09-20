@@ -1,0 +1,21 @@
+---
+layout: page
+title: Categories
+description: Blog categories
+---
+
+{%- assign sorted_categories = site.categories | sort -%}
+{%- for category in sorted_categories -%}
+<div>
+  {%- capture category_name %}{{ category | first }}{% endcapture -%}
+  <h3 id="{{ category_name | slugize }}">{{ category_name | capitalize }}</h3>
+  {%- for post in site.categories[category_name] -%}
+  <article>
+    <a href="{{ post.url | relative_url }}">
+      <div>{{ post.title | escape }}</div>
+      <div>{{ post.date | date: site.date_format }}</div>
+    </a>
+  </article>
+  {%- endfor -%}
+</div>
+{%- endfor -%}
