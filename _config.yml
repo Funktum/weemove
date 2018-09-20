@@ -11,6 +11,8 @@ date_format: "%b %-d, %Y"
 # Build settings
 markdown: kramdown
 permalink: /:title/
+sass:
+  style: compressed
 
 # Navigation
 header_pages:

@@ -14,5 +14,5 @@ This is my somewhat opinionated jekyll starter template which is based on the [m
 ```
 gem install bundler
 bundle install
-bundle exec jekyll serve -i --profile -t
+bundle exec jekyll serve --profile
 ```
