@@ -17,9 +17,9 @@ description: Blog
     {%- include post-meta.html -%}
   </header>
   <div>
-    {%- if post.image -%}
+    {% unless post.image == site.defaults[0]['values'].image %}
       <img src="{{ post.image }}" alt="{{ post.title | escape }}" />
-    {%- endif -%}
+    {% endunless %}
     {{ post.content }}
   </div>
 </article>
