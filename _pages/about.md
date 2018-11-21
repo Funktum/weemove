@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About page title
-title_nav: About
+title: About
 description: Page description
 ---
 

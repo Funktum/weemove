@@ -1,3 +1,26 @@
 @charset "utf-8";
 
-// Define fonts, colors, settings, mixins, etc. here
+// Variables, mixins and whatnot
+
+@mixin break($point) {
+  @if $point == not-small {
+    @media screen and (min-width: 30em) {
+      @content;
+    }
+  }
+  @else if $point == small {
+    @media screen and (max-width: 45em) {
+      @content;
+    }
+  }
+  @else if $point == medium {
+    @media screen and (min-width: 30em) and (max-width: 60em) {
+      @content;
+    }
+  }
+  @else if $point == large {
+    @media screen and (min-width: 60em)  {
+      @content;
+    }
+  }
+}

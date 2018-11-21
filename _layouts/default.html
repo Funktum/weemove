@@ -2,17 +2,10 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {%- include head.html -%}
   <body>
-
-    {%- include header.html -%}
-
-    <main>
-      <div>
-        {{ content }}
-      </div>
-    </main>
-
+    {%- include navigation.html -%}
+    {{ content }}
     {%- include footer.html -%}
     {%- include admin.html -%}
-
   </body>
+  <script type="text/javascript" src="{{ "/assets/js/main.js" | relative_url }}"></script>
 </html>

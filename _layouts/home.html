@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div>
+<div style="background-color: {{ page.hero_bg | default: "transparent" }}">
   <h1>{{ page.title | escape }}</h1>
   <div>
     {{ content }}

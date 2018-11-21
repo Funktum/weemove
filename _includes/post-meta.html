@@ -5,16 +5,22 @@
 {%- endif -%}
 
 <div>
-  <time datetime="{{ source.date | date_to_xmlschema }}">
-    {{ source.date | date: site.date_format }}
-  </time>
+  <span>{{ source.date | date: site.date_format }}</span>
+
   {%- if source.author -%}
+    <span>&middot;</span>
     <span>Written by {{ source.author }}</span>
   {%- endif -%}
+
   {% if source.categories.size > 0 %}
+    <span>&middot;</span>
     <span>Posted in
       {% for category in source.categories %}
-        <a href="{{ site.baseurl }}/blog/categories/#{{ category | slugize }}">{{ category }}</a>
+        {% if include.nolinks %}
+          {{ category }}
+        {% else %}
+          <a href="{{ category | slugize | prepend: "/blog/categories/#" | relative_url }}">{{ category }}</a>
+        {% endif %}
         {%- unless forloop.last %},{% endunless -%}
       {% endfor %}
     </span>
