@@ -27,20 +27,21 @@
   }
 
   hr {
-    @extend .bn, .pv4, .mv0;
+    @extend .bn, .pv4-l, .pv3, .mv0;
   }
 
   blockquote {
     background-color: #F1F3F5;
-    @extend .georgia, .f4, .we-gray-2, .i, .mv4, .mh0, .br2;
+    @extend .georgia, .f4-ns, .we-gray-2, .i, .mv4, .mh0, .br2;
 
     p {
       margin: 0;
-      padding: 2rem;
+      padding: 1.5rem;
     }
   }
 
   h1, h2, h3, h4 {
     @extend .we-gray-4, .lh-title, .fw8;
+    margin-top: 1.5em;
   }
 }

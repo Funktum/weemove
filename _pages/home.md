@@ -68,17 +68,7 @@ _Hinta 138€ (10 x 55min)_
 
 # Ohjaajamme
 
-[Kuva]  
-Sampsa Visuri  
-+358 40 351 3174
-
-[Kuva]  
-Linnea Lindgård  
-+358 44 061 2955
-
-[Kuva]  
-Johanna Onnela  
-+358 50 532 1395
+{% include people.html %}
 
 Kaikki ohjaajamme ovat koulutettuja liikunnanohjaaja tai -neuvoja joilla on paljon kokemusta lasten kanssa liikumisesta.
 
