@@ -1,0 +1,46 @@
+.nested-content {
+  @extend .we-gray-3, .lh-copy, .f4-ns;
+
+  a {
+    @extend .we-orange, .hover-we-dark-orange, .link;
+
+    &.btn {
+      @extend .dib, .pv3, .ph4, .no-underline, .bg-we-orange, .hover-bg-we-dark-orange, .white, .hover-white, .f4, .fw6, .lh-solid, .br-pill, .grow;
+    }
+  }
+
+  p, ol, ul {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  ol, ul {
+    @extend .pl4;
+
+    li {
+      @extend .mv2;
+    }
+  }
+
+  p > img {
+    @extend .db, .pv1;
+  }
+
+  hr {
+    @extend .bn, .pv4, .mv0;
+  }
+
+  blockquote {
+    background-color: #F1F3F5;
+    @extend .georgia, .f4, .we-gray-2, .i, .mv4, .mh0, .br2;
+
+    p {
+      margin: 0;
+      padding: 2rem;
+    }
+  }
+
+  h1, h2, h3, h4 {
+    @extend .we-gray-4, .lh-title, .fw8;
+  }
+}

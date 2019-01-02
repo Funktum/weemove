@@ -1,63 +1,36 @@
-// Custom styles
-
-h1, h2, h3, h4 {
-  @extend .lh-title;
-}
-
-hr {
-  @extend .bn, .pv4, .mv0;
-}
-
-blockquote {
-  background-color: #F1F3F5;
-  @extend .georgia, .f4, .gray-2, .i, .mv4, .mh0, .br2;
-
-  p {
-    margin: 0;
-    padding: 2rem;
-  }
-}
+// Theme
 
 .nunito {
   font-family: 'Nunito', sans-serif;
 }
 
-.f-title {
-  font-size: 4rem;
+.bg-we {
+  @include color-modfier($colors, 'background-color')
 }
 
-.we-orange {
-  color: #FF9B21
+.hover-bg-we {
+  @include color-modfier($colors, 'background-color', ':hover')
 }
 
-.bg-we-orange {
-  background-color: #FF9B21
+.we {
+  @include color-modfier($colors, 'color')
 }
 
-.gray-5 {
-  color: #212529;
+.hover-we {
+  @include color-modfier($colors, 'color', ':hover')
 }
 
-.gray-4 {
-  color: #343A40;
+// Tachyon overrides
+
+.link:focus {
+  transition: color .15s ease-in;
+  outline: none
 }
 
-.bg-gray-4 {
-  background-color: #343A40;
-}
+// Custom
 
-.hover-gray-4:hover {
-  color: #343A40;
-}
-
-.gray-3 {
-  color: #495057;
-}
-
-.gray-2 {
-  color: #868E96;
-}
-
-.gray-1 {
-  color: #DEE2E6;
+@include break(large) {
+  .f-title-l {
+    font-size: 4rem;
+  }
 }

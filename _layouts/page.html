@@ -5,8 +5,9 @@ layout: default
   {% if page.image %}
     <img class="w-100 mt4" src="{{ page.image }}" alt="{{ page.title | escape }}" />
   {% endif %}
-  <h1 class="f1 lh-title">{{ page.title | escape }}</h1>
-  <div>
+  <h1 class="f1 fw8 lh-title">{{ page.title | escape }}</h1>
+
+  <div class="nested-content">
     {{ content }}
   </div>
 </div>

@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
-<div class="mw8 center ph4 pv6 lh-copy f4">
+<div class="mw8 center ph4 pv6">
 
-  <h1 class="f1 lh-solid">{{ page.title | escape }}</h1>
+  <h1 class="f1 fw8 lh-solid">{{ page.title | escape }}</h1>
 
   <div class="mb4">
     {% unless page.image == site.defaults[0]['values'].image %}
       <img src="{{ page.image }}" alt="{{ page.title | escape }}" />
     {% endunless %}
-    {{ content }}
+    <div class="nested-content">
+      {{ content }}
+    </div>
   </div>
 
   <div class="f5 black-50">
@@ -17,19 +19,19 @@ layout: default
   </div>
 
   {%- if site.disqus.shortname -%}
-    <div>
+    <div class="mb5">
     {%- include disqus_comments.html -%}
     </div>
   {%- endif -%}
 
   {% assign total_posts = site.posts | size %}
   {% if total_posts > 1 %}
-    <div>
-      <h3>Recent posts</h3>
+    <div class="mb5">
+      <h3 class="f3 fw8">Recent posts</h3>
       <ul>
         {% for post in site.related_posts limit: 5 %}
-          <li>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <li class="mb2">
+            <a class="link we-orange f4-ns" href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </li>
         {% endfor %}
       </ul>

@@ -5,18 +5,18 @@ title_nav: Blog
 description: Blog
 ---
 
-<div class="mw8 center ph4 pv6 lh-copy f4">
+<div class="mw8 center ph4 pv6">
   {%- for post in paginator.posts -%}
   <article>
     {%- assign date_format = site.date_format -%}
     <header>
-      <h1 class="f2 lh-title">
-        <a class="link blue hover-dark-blue" href="{{ post.url | relative_url }}">
+      <h1 class="f2 fw8 lh-title">
+        <a class="link we-orange hover-we-dark-orange" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
       </h1>
     </header>
-    <div class="mb3">
+    <div class="mb3 nested-content">
       {{ post.content | markdownify | remove: '<img>' | strip_html | truncate: 240 }}
     </div>
     <div class="f5 black-50">

@@ -1,6 +1,14 @@
 @charset "utf-8";
 
-// Variables, mixins and whatnot
+$colors: (
+  'gray-1': #DEE2E6,
+  'gray-2': #868E96,
+  'gray-3': #495057,
+  'gray-4': #343A40,
+  'gray-5': #212529,
+  'orange': #FF9B21,
+  'dark-orange': #E87613,
+);
 
 @mixin break($point) {
   @if $point == not-small {
@@ -21,6 +29,14 @@
   @else if $point == large {
     @media screen and (min-width: 60em)  {
       @content;
+    }
+  }
+}
+
+@mixin color-modfier($list, $attribute, $state:null) {
+  @each $key, $value in $list {
+    &-#{$key}#{$state} {
+      #{$attribute}: $value;
     }
   }
 }
