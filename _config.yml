@@ -7,6 +7,7 @@ baseurl: "/weemove" # the subpath of your site, e.g. /blog
 url: "https://weemove.fi" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-XXXXXXXX-N
 date_format: "%-d.%-m.%Y"
+facbook: https://www.facebook.com/Funktum
 
 # Build settings
 markdown: kramdown
