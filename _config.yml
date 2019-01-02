@@ -6,7 +6,6 @@ description: "Tarjoamme lapsellesi hauskan liikuntakokemuksen joka antaa onnistu
 baseurl: "/weemove" # the subpath of your site, e.g. /blog
 url: "https://weemove.fi" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-XXXXXXXX-N
-facebook_pixel: XXXXXXXXXXXXXXX
 date_format: "%-d.%-m.%Y"
 
 # Build settings
