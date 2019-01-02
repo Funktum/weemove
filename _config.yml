@@ -1,13 +1,13 @@
 # Site settings
-title: Title
+title: WEEMOVE
 logo: /assets/img/logo.svg
-email: example@domain.com
-description: Site description
+email: we@weemove.fi
+description: "Tarjoamme lapsellesi hauskan liikuntakokemuksen joka antaa onnistumisen tunteita ja kasvattaa lapsen itseluottamusta"
 baseurl: "/weemove/" # the subpath of your site, e.g. /blog
 url: "https://weemove.fi" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-XXXXXXXX-N
 facebook_pixel: XXXXXXXXXXXXXXX
-date_format: "%b %-d, %Y"
+date_format: "%-d.%-m.%Y"
 
 # Build settings
 markdown: kramdown
