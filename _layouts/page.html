@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
-<div>
-  <h1>{{ page.title | escape }}</h1>
+<div class="mw8 center ph4 pv6 lh-copy f4">
+  {% if page.image %}
+    <img class="w-100 mt4" src="{{ page.image }}" alt="{{ page.title | escape }}" />
+  {% endif %}
+  <h1 class="f1 lh-title">{{ page.title | escape }}</h1>
   <div>
     {{ content }}
   </div>

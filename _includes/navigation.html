@@ -1,19 +1,21 @@
-{%- assign inactive = "link ph3 pv2 hover-white white-60" -%}
-{%- assign active = "link ph3 pv2 hover-white white" -%}
+{%- assign inactive = "f4 fw6 link pa3 hover-gray-4 gray-2" -%}
+{%- assign active = "f4 fw6 link pa3 hover-gray-4 gray-4 bb bw1" -%}
 
-<div style="background-color: {{ page.hero_bg | default: "transparent" }}">
-  <a rel="author" href="{{ "/" | relative_url }}">
-    <img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}">
-  </a>
-  <nav>
-    {%- for item in site.data.navigation -%}
-      {% if page.url == item.url %}
-        <a class="{{ active }}" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
-      {% elsif page.url contains item.url and item.url != "/" %}
-        <a class="{{ active }}" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
-      {% else %}
-        <a class="{{ inactive }}" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
-      {% endif %}
-    {%- endfor -%}
-  </nav>
+<div class="absolute w-100 top-2">
+  <div class="flex justify-between items-center mw8 ph3 center">
+    <a class="pa3" rel="author" href="{{ "/" | relative_url }}">
+      <img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" height="24">
+    </a>
+    <nav class="flex">
+      {%- for item in site.data.navigation -%}
+        {% if page.url == item.url %}
+          <a class="{{ active }}" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+        {% elsif page.url contains item.url and item.url != "/" %}
+          <a class="{{ active }}" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+        {% else %}
+          <a class="{{ inactive }}" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+        {% endif %}
+      {%- endfor -%}
+    </nav>
+  </div>
 </div>

@@ -19,10 +19,15 @@
         {% if include.nolinks %}
           {{ category }}
         {% else %}
-          <a href="{{ category | slugize | prepend: "/blog/categories/#" | relative_url }}">{{ category }}</a>
+          <a class="link blue hover-dark-blue" href="{{ category | slugize | prepend: "/blog/categories/#" | relative_url }}">{{ category }}</a>
         {% endif %}
         {%- unless forloop.last %},{% endunless -%}
       {% endfor %}
     </span>
+  {% endif %}
+
+  {% if include.readmore %}
+    <span>&middot;</span>
+    <a class="link blue hover-dark-blue" href="{{ source.url | relative_url }}">Lue lisää &rarr;</a>
   {% endif %}
 </div>

@@ -5,33 +5,34 @@ title_nav: Blog
 description: Blog
 ---
 
-{%- for post in paginator.posts -%}
-<article>
-  {%- assign date_format = site.date_format -%}
-  <header>
-    <h1>
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </h1>
-    {%- include post-meta.html -%}
-  </header>
-  <div>
-    {% unless post.image == site.defaults[0]['values'].image %}
-      <img src="{{ post.image }}" alt="{{ post.title | escape }}" />
-    {% endunless %}
-    {{ post.content }}
-  </div>
-</article>
-{%- endfor -%}
+<div class="mw8 center ph4 pv6 lh-copy f4">
+  {%- for post in paginator.posts -%}
+  <article>
+    {%- assign date_format = site.date_format -%}
+    <header>
+      <h1 class="f2 lh-title">
+        <a class="link blue hover-dark-blue" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h1>
+    </header>
+    <div class="mb3">
+      {{ post.content | markdownify | remove: '<img>' | strip_html | truncate: 240 }}
+    </div>
+    <div class="f5 black-50">
+      {%- include post-meta.html readmore="true" -%}
+    </div>
+  </article>
+  {%- endfor -%}
 
-{%- if paginator.previous_page or paginator.next_page -%}
-<div>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">&larr; Older posts</a>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">Newer posts &rarr;</a>
-  {% endif %}
+  {%- if paginator.previous_page or paginator.next_page -%}
+  <div>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}">&larr; Older posts</a>
+    {% endif %}
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}">Newer posts &rarr;</a>
+    {% endif %}
+  </div>
+  {%- endif -%}
 </div>
-{%- endif -%}

@@ -2,6 +2,7 @@
 layout: page
 title: About
 description: Page description
+image: /assets/img/image1.svg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.

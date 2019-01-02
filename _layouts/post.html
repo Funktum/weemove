@@ -1,16 +1,19 @@
 ---
 layout: default
 ---
-<div>
+<div class="mw8 center ph4 pv6 lh-copy f4">
 
-  <h1>{{ page.title | escape }}</h1>
-  {%- include post-meta.html -%}
+  <h1 class="f1 lh-solid">{{ page.title | escape }}</h1>
 
-  <div>
+  <div class="mb4">
     {% unless page.image == site.defaults[0]['values'].image %}
       <img src="{{ page.image }}" alt="{{ page.title | escape }}" />
     {% endunless %}
     {{ content }}
+  </div>
+
+  <div class="f5 black-50">
+    {%- include post-meta.html -%}
   </div>
 
   {%- if site.disqus.shortname -%}
