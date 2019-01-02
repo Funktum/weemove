@@ -4,9 +4,13 @@ hr {
   @extend .bn, .pv4, .mv0;
 }
 
+p {
+  letter-spacing: 0.01em;
+}
+
 blockquote {
   background-color: #F1F3F5;
-  @extend .georgia, .f3, .gray-2, .i, .mv4, .mh0, .br2;
+  @extend .georgia, .f4, .gray-2, .i, .mv4, .mh0, .br2;
 
   p {
     margin: 0;
@@ -14,8 +18,20 @@ blockquote {
   }
 }
 
+.montserrat {
+  font-family: 'Dosis', sans-serif;
+}
+
 .f-title {
   font-size: 4rem;
+}
+
+.we-orange {
+  color: #FF9B21
+}
+
+.bg-we-orange {
+  background-color: #FF9B21
 }
 
 .gray-5 {

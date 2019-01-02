@@ -4,8 +4,8 @@ layout: default
 <div class="cover bg-center vh-100" style="background-color: {{ page.hero_bg | default: "transparent" }}; background-image: url({{ page.hero_img }})">
   <div class="flex flex-column items-center justify-center h-100 tc mw8 center ph4">
     <h1 class="f-title lh-solid fw7 mt0 mb4">{{ page.title | escape }}</h1>
-    <p class="f3 mt0 mb4">{{ page.description | escape }}</p>
-    <a class="pv3 ph4 no-underline bg-blue white f4 fw6 br-pill grow" href="#">Call to action</a>
+    <p class="f3 mt0 mb4 measure center tc">{{ page.description | escape }}</p>
+    <a class="dib pv3 ph4 no-underline bg-we-orange white f4 fw6 br-pill grow" href="{{ page.hero_btn | relative_url }}">{{ page.hero_btn_text | escape }}</a>
   </div>
 </div>
 <div class="mw8 center ph4 pv6 lh-copy f4">
