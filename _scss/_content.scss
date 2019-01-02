@@ -3,10 +3,10 @@
 
   a {
     @extend .we-orange, .hover-we-dark-orange, .link;
+  }
 
-    &.btn {
-      @extend .dib, .pv3, .ph4, .no-underline, .bg-we-orange, .hover-bg-we-dark-orange, .white, .hover-white, .f4, .fw6, .lh-solid, .br-pill, .grow;
-    }
+  p > a.btn {
+    @extend .dib, .pv3, .ph4, .no-underline, .bg-we-orange, .hover-bg-we-dark-orange, .white, .hover-white, .f4, .fw7, .lh-solid, .br-pill, .grow-ns;
   }
 
   p, ol, ul {

@@ -34,3 +34,27 @@
     font-size: 4rem;
   }
 }
+
+@include break(not-small) {
+  .grow-ns {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    transition: -webkit-transform .25s ease-out;
+    transition: transform .25s ease-out;
+    transition: transform .25s ease-out, -webkit-transform .25s ease-out
+  }
+
+  .grow-ns:hover,
+  .grow-ns:focus {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05)
+  }
+
+  .grow-ns:active {
+    -webkit-transform: scale(.90);
+    transform: scale(.90)
+  }
+}
