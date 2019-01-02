@@ -82,7 +82,7 @@ Johanna Onnela
 
 Kaikki ohjaajamme ovat koulutettuja liikunnanohjaaja tai -neuvoja joilla on paljon kokemusta lasten kanssa liikumisesta.
 
-Mikäli sinulla on mitä tahansa kysyttävää, laita meille sähköpostia osoitteeseen [we@weemove.fi](mailto:we@weemove.fi) niin palaamme sinulle mahdollisimman nopeasti.
+Mikäli sinulla on mitä tahansa kysyttävää, laita meille sähköpostia osoitteeseen [{{site.email}}](mailto:{{site.email}}) niin palaamme sinulle mahdollisimman nopeasti.
 
 ---
 

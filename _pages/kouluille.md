@@ -2,7 +2,7 @@
 layout: page
 title: Kouluille
 description: Page description
-image: /assets/img/image1.svg
+image: /weemove/assets/img/image1.svg
 ---
 
 Järjestämme räätälöityjä liikuntakerhoja yhteistyössä koulujen kanssa. Nämä kerhot ovat tarkoitettu ainoastaan koulujen omille oppilaille. 
@@ -13,7 +13,6 @@ Järjestämme ohjattua liikuntaa sekä suomeksi että ruotsiksi ja kaikki ohjaaj
 
 Monipuolisen liikuntaharrastuksen tarjoaminen lapsille käy helposti koulupäivän jälkeen ja vaivaton tapa myös vanhemmille. 
 
-
 Ota yhteyttä niin sovitaan juuri teidän oppilaille sopiva liikuntaratkaisu. 
 
-[we@weemove.fi](mailto:we@weemove.fi)
+[{{site.email}}](mailto:{{site.email}})
