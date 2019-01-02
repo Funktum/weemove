@@ -5,12 +5,12 @@ title_nav: Blog
 description: Blog
 ---
 
-<div class="mw8 center ph4 pv6">
+<div class="mw8 center ph4 pv6-ns pv5">
   {%- for post in paginator.posts -%}
-  <article>
+  <article class="mb4">
     {%- assign date_format = site.date_format -%}
     <header>
-      <h1 class="f2 fw8 lh-title">
+      <h1 class="f2 fw8 mt0 lh-title">
         <a class="link we-orange hover-we-dark-orange" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
