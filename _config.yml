@@ -3,7 +3,7 @@ title: Title
 logo: /assets/img/logo.svg
 email: example@domain.com
 description: Site description
-baseurl: "http://www.funktum.fi/weemove/" # the subpath of your site, e.g. /blog
+baseurl: "/weemove/" # the subpath of your site, e.g. /blog
 url: "https://weemove.fi" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-XXXXXXXX-N
 facebook_pixel: XXXXXXXXXXXXXXX
