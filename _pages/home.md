@@ -36,7 +36,7 @@ Jokaista kerhoa ohjaa aina vähintään yksi koulutettu liikunnanohjaaja tai -ne
 
 WEE Parkour tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta ja edistää ketteryyttä. Parkour toimii hyvänä oheisharrastuksena monelle muulle lajille monipuolisten liikeratojen ansiosta.
 
-Hinta 138€ (10 x 55min)
+_Hinta 138€ (10 x 55min)_
 
 {% include button.html url="https://www.eventio.com/" text="Ilmoittaudu" %}
 </div>
@@ -46,7 +46,7 @@ Hinta 138€ (10 x 55min)
 
 WEE Circuksess lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoja kuten akrobatiaa, jonglöörausta ja yksipyöräisellä ajamista. Sirkus kehittää tasapainoa, kehonhallintaa ja silmä-käsi koordinaatiota.
 
-Hinta 138€ (10 x 55min)
+_Hinta 138€ (10 x 55min)_
 
 {% include button.html url="https://www.eventio.com/" text="Ilmoittaudu" %}
 </div>
@@ -54,9 +54,9 @@ Hinta 138€ (10 x 55min)
 <div class="w-33-l" markdown="1">
 ## WEE Bounce
 
-WEE Bouncessa tutustumme hauskoihin ja hieman epätavallisiin pallopeleihin kuten kin-ballin, speedmintonin ja kaupunkitaisteluun. Epätavalliset pallopelit ovat loistava tapa pienentää tasoeroja ja antamaan kaikille seikkailijoille onnistumisen tunteita.
+WEE Bouncessa tutustumme hauskoihin ja hieman epätavallisiin pallopeleihin kuten kin-ballin, speedmintonin ja kaupunkitaisteluun. Epätavalliset pallopelit pienentävät tasoeroja ja antavat kaikille seikkailijoille onnistumisen tunteita.
 
-Hinta 138€ (10 x 55min)
+_Hinta 138€ (10 x 55min)_
 
 {% include button.html url="https://www.eventio.com/" text="Ilmoittaudu" %}
 </div>
