@@ -7,6 +7,7 @@ description: >-
   järjestettäviä liikuntakerhoja.
 hero_btn: '#wee-kerhot'
 hero_btn_text: WEE-kerhot
+permalink: /
 ---
 # Tarjoamme lapselle onnistumisia ohjatun liikunan kautta
 

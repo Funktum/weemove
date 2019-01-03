@@ -5,6 +5,9 @@ collections:
   pages:
     name: Pages
     fields:
+      - name: permalink
+        label: Permalink
+        type: hidden
       - name: layout
         label: Layout
         type: string
