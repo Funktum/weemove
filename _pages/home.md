@@ -16,9 +16,9 @@ Liikunta parantaa lapsen fyysisiä kykyjä, minkä lisäksi se vaikuttaa positii
 >“Hieman ujo tyttäreni kertoi minulle loistavin silmin, kuinka hän oli kerhossa tehnyt eteen ja taaksepäin voltteja. Te olette kannustaneet häntä hyvällä tavalla ja luoneet turvallisen ilmapiirin, jossa hän uskalsi kokeilla sellaisia asioita, joita en olisi koskaan ajatellut hänen uskaltavan.”  
 >–&nbsp;Lapsen äiti
 
-![Kuvitus](/uploads/weemove-illustration-1.png)
-
 ---
+
+![Kuvitus](/uploads/weemove-illustration-1.png)
 
 # Mitä WEE-kerhoissa tapahtuu?
 
@@ -29,8 +29,6 @@ Jokaista kerhoa ohjaa aina vähintään yksi koulutettu liikunnanohjaaja tai -ne
 ---
 
 ![Kuvitus](/uploads/weemove-illustration-2.png)
-
----
 
 # WEE-kerhot
 
