@@ -7,7 +7,6 @@ description: >-
   järjestettäviä liikuntakerhoja.
 hero_btn: '#wee-kerhot'
 hero_btn_text: WEE-kerhot
-permalink: /
 ---
 # Tarjoamme lapselle onnistumisia ohjatun liikunan kautta
 
@@ -23,6 +22,8 @@ Liikunta parantaa lapsen fyysisiä kykyjä, minkä lisäksi se vaikuttaa positii
 Aloitamme kerhon hauskalla alkuverryttelyllä/leikillä. Tämän jälkeen tutustumme lajiin ohjaajan opastuksella esimerkkien kautta. Lapset saavat harjoitella lajin eri osa-alueita ohjaajien avustuksella. Kerhon kohokohta on loppuleikki jossa päivän opit nivoutuvat yhteen. Kerhon päättekksi heitämme yläviitoset ja lähdemme hymysuin kotiin.
 
 Jokaista kerhoa ohjaa aina vähintään yksi koulutettu liikunnanohjaaja tai -neuvoja. Käytämme aina kahta ohjaajaa, kun ryhmään osallistuu vähintään 12 lasta.
+
+![Kuvitus](/uploads/weemove-illustration-1.png)
 
 ---
 
