@@ -1,10 +1,12 @@
 ---
 layout: home
-title: "Innostava liikuntakerho 6–12 vuotialle seikkailijalle"
-description: "Tarjoamme lapsellesi hauskan liikuntakokemuksen joka antaa onnistumisen tunteita ja kasvattaa lapsen itseluottamusta. WEE-kerhot ovat iltapäivisin jäjestettäviä liikuntakerhoja Uudellamaalla."
-hero_btn: "#wee-kerhot"
-hero_btn_text: "WEE-kerhot"
-permalink: /
+title: Innostava liikuntakerho 6–12 vuotialle seikkailijalle
+description: >-
+  Tarjoamme lapsellesi hauskan liikuntakokemuksen joka antaa onnistumisen
+  tunteita ja kasvattaa lapsen itseluottamusta. WEE-kerhot ovat iltapäivisin
+  järjestettäviä liikuntakerhoja.
+hero_btn: '#wee-kerhot'
+hero_btn_text: WEE-kerhot
 ---
 # Tarjoamme lapselle onnistumisia ohjatun liikunan kautta
 
@@ -24,6 +26,8 @@ Jokaista kerhoa ohjaa aina vähintään yksi koulutettu liikunnanohjaaja tai -ne
 ---
 
 # WEE-kerhot
+
+WEE-kerhoja järjestetään tällä hetkellä Uudellamaalla, näet tarkemmat ajankohdat ja sijainnit kunkin kerhon ilmoittautumissivulta.
 
 <div class="flex-l">
 <div class="w-33-l" markdown="1">
