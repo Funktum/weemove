@@ -7,7 +7,7 @@ collections:
     fields:
       - name: permalink
         label: Permalink
-        type: hidden
+        type: string
       - name: layout
         label: Layout
         type: string

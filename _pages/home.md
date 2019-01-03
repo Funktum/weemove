@@ -1,4 +1,5 @@
 ---
+permalink: /
 layout: home
 title: Innostava liikuntakerho 6–12 vuotialle seikkailijalle
 description: >-
