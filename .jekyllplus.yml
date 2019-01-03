@@ -16,10 +16,18 @@ collections:
         label: Description
         type: string
         description: Used for social media sharing and SEO
+      - name: hero_btn
+        label: Home page button link
+        type: string
+        description: Home page only setting
+      - name: hero_btn_text
+        label: Home page button text
+        type: string
+        description: Home page only setting
       - name: image
         label: Share image
         type: image
-        description: Displayed at the top of the page and in social media shares. If no image provided the site fallbacks to the default share image.
+        description: Displayed at the top of the page and in social media shares. Fallbacks to the default share image if no image provided.
       - name: body
         label: Body
         type: markdown
@@ -48,7 +56,7 @@ collections:
       - name: image
         label: Post image
         type: image
-        description: Displayed at the top of the post and in social media shares. If no image provided the site fallbacks to the default share image.
+        description: Displayed at the top of the post and in social media shares. Fallbacks to the default share image if no image provided.
       - name: body
         label: Body
         type: markdown
