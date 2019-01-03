@@ -70,9 +70,7 @@ _Hinta 138€ (10 x 55min)_
 
 {% include people.html %}
 
-Kaikki ohjaajamme ovat koulutettuja liikunnanohjaaja tai -neuvoja joilla on paljon kokemusta lasten kanssa liikumisesta.
-
-Mikäli sinulla on mitä tahansa kysyttävää, laita meille sähköpostia osoitteeseen [{{site.email}}](mailto:{{site.email}}) niin palaamme sinulle mahdollisimman nopeasti.
+Kaikki ohjaajamme ovat koulutettuja liikunnanohjaaja tai -neuvoja joilla on paljon kokemusta lasten kanssa liikumisesta. Jos sinulla on kysyttävää, laita meille sähköpostia osoitteeseen [{{site.email}}](mailto:{{site.email}})
 
 ---
 
@@ -81,5 +79,3 @@ Mikäli sinulla on mitä tahansa kysyttävää, laita meille sähköpostia osoit
 Järjestämme yhteistyössä koulujen kanssa oppilaille räätälöityjä WEE-kerhoja koulujen liikuntasaleissa. Nämä kerhot ovat tarkoitettu ainoastaan koulun oppilaille.
 
 {% include button.html url="/kouluille" text="Kouluille" %}
-
----

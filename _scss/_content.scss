@@ -32,7 +32,7 @@
 
   blockquote {
     background-color: #F1F3F5;
-    @extend .georgia, .f4-ns, .we-gray-2, .i, .mv4, .mh0, .br2;
+    @extend .we-gray-2, .i, .mv4, .mh0, .br2;
 
     p {
       margin: 0;
@@ -41,7 +41,7 @@
   }
 
   h1, h2, h3, h4 {
-    @extend .we-gray-4, .lh-title, .fw8;
+    @extend .we-gray-4, .lh-title, .fw8, .measure-narrow-ns;
     margin-top: 1.5em;
   }
 }

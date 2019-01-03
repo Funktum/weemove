@@ -8,6 +8,6 @@
   <span>{{ source.date | date: site.date_format }}</span>
   {% if include.readmore %}
     <span>&middot;</span>
-    <a class="link we-orange hover-we-dark-orange" href="{{ source.url | relative_url }}">Lue lisää &rarr;</a>
+    <a class="link we-orange hover-we-dark-orange" href="{{ source.url | relative_url }}">{{site.data.strings.readmore.fi}} &rarr;</a>
   {% endif %}
 </div>

@@ -1,12 +1,12 @@
 {%- assign inactive = "f4 fw7 link pa3 hover-we-gray-4 we-gray-2" -%}
 {%- assign active = "f4 fw7 link pa3 hover-we-gray-4 we-gray-4 bb bw1" -%}
 
-<div class="absolute-ns w-100 top-0 pt4">
+<div class="absolute-ns w-100 top-0 pt4-ns pt3">
   <div class="flex-ns justify-between items-center mw8 ph3 center">
-    <a class="pa3 flex-shrink-0 grow-ns" rel="author" href="{{ "/" | relative_url }}">
-      <img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" height="28">
+    <a class="pa3 db flex-shrink-0 grow-ns" rel="author" href="{{ "/" | relative_url }}">
+      <img class="db" src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" height="24">
     </a>
-    <nav class="flex">
+    <nav class="flex items-stretch">
       {%- for item in site.data.navigation -%}
         {% if page.url == item.url %}
           <a class="{{ active }}" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>

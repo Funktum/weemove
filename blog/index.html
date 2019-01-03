@@ -5,12 +5,12 @@ title_nav: Blog
 description: Blog
 ---
 
-<div class="mw8 center ph4 pv6-ns pv5">
+<div class="mw8 center ph4 pv6-ns pv4">
   {%- for post in paginator.posts -%}
-  <article class="mb4">
+  <article class="pv4">
     {%- assign date_format = site.date_format -%}
     <header>
-      <h1 class="f2 fw8 mt0 lh-title">
+      <h1 class="f2 fw8 mt0 mb3 lh-title">
         <a class="link we-orange hover-we-dark-orange" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
@@ -26,12 +26,16 @@ description: Blog
   {%- endfor -%}
 
   {%- if paginator.previous_page or paginator.next_page -%}
-  <div>
+  <div class="flex justify-around pt3">
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}">&larr; Older posts</a>
+      <a class="pv3 link we-orange hover-we-dark-orange f4-ns" href="{{ paginator.next_page_path }}">
+        &larr; {{site.data.strings.older.fi}}
+      </a>
     {% endif %}
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}">Newer posts &rarr;</a>
+      <a class="pv3 link we-orange hover-we-dark-orange f4-ns"href="{{ paginator.previous_page_path }}">
+        {{site.data.strings.newer.fi}} &rarr;
+      </a>
     {% endif %}
   </div>
   {%- endif -%}

@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-<div class="mw8 center ph4 pv6-ns pv5">
+<div class="mw8 center ph4 pv6-ns pv4">
   {% unless page.image == site.defaults[0]['values'].image %}
-    <img class="w-100 mt4" src="{{ page.image }}" alt="{{ page.title | escape }}" />
+    <img class="w-100 mv3" src="{{ page.image }}" alt="{{ page.title | escape }}" />
   {% endunless %}
-  <h1 class="f1 fw8 lh-title">{{ page.title | escape }}</h1>
-
+  <h1 class="f1-ns f2 fw8 lh-title mt4">{{ page.title | escape }}</h1>
   <div class="nested-content">
     {{ content }}
   </div>
