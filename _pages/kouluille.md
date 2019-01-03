@@ -4,7 +4,6 @@ title: Kouluille
 description: Page description
 image: /uploads/weemove-illustration-1.png
 ---
-
 Järjestämme räätälöityjä liikuntakerhoja yhteistyössä koulujen kanssa. Nämä kerhot ovat tarkoitettu ainoastaan koulujen omille oppilaille. 
 
 Pyrimme ratkaisemaan kerhon rahoituksen tavalla joka tukee koulun linjauksia. Yleisin tapa on että vanhemmat kustantavat lapsen kerhomaksun. Olemme myös tehneet vanhempainyhdistysten ja sponsoreiden kanssa yhteistyötä, jolloin kerhot on saatu toteutettua. 
