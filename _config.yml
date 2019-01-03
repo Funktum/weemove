@@ -1,6 +1,6 @@
 # Site settings
 title: WEEMOVE
-logo: /assets/img/logo.svg
+logo: /assets/img/weemove-logo-black.svg
 email: we@weemove.fi
 description: "Tarjoamme lapsellesi hauskan liikuntakokemuksen joka antaa onnistumisen tunteita ja kasvattaa lapsen itseluottamusta"
 baseurl: "/weemove" # the subpath of your site, e.g. /blog
@@ -32,7 +32,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/share.png
+      image: /assets/img/weemove-share-1.png
 
 # Disqus - enable for commenting on blog
 # disqus:
