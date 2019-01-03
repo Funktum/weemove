@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="cover bg-center-ns vh-100-ns" style="background-color: {{ page.hero_bg | default: "transparent" }}; background-image: url({{ page.hero_img }})">
+<div class="cover bg-center-ns vh-100-ns" style="background-image: url({{ "/assets/img/weemove-hero.svg" | relative_url }})">
   <div class="flex flex-column items-center justify-center h-100-ns tc mw8 center pa4 bg-white-50-s">
     <h1 class="f-title-l f1 lh-solid fw8 mt0 mb4">{{ page.title | escape }}</h1>
     <p class="f3 lh-copy we-gray-3 mt0 mb4 measure">{{ page.description | escape }}</p>
