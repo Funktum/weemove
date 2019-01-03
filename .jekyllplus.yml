@@ -35,6 +35,7 @@ collections:
         label: Body
         type: markdown
         autoresize: true
+        description: Markdown syntax reference https://www.markdownguide.org/cheat-sheet
   posts:
     name: Posts
     fields:
@@ -64,3 +65,4 @@ collections:
         label: Body
         type: markdown
         autoresize: true
+        description: Markdown syntax reference https://www.markdownguide.org/cheat-sheet
