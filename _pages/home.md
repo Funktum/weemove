@@ -4,7 +4,7 @@ title: "Innostava liikuntakerho 6–12 vuotialle seikkailijalle"
 description: "Tarjoamme lapsellesi hauskan liikuntakokemuksen joka antaa onnistumisen tunteita ja kasvattaa lapsen itseluottamusta. WEE-kerhot ovat iltapäivisin jäjestettäviä liikuntakerhoja Uudellamaalla."
 hero_btn: "#wee-kerhot"
 hero_btn_text: "WEE-kerhot"
-hero_img: /weemove/assets/img/weemove-hero.svg
+hero_img: /assets/img/weemove-hero.svg
 permalink: /
 ---
 # Tarjoamme lapselle onnistumisia ohjatun liikunan kautta
@@ -16,7 +16,7 @@ Liikunta parantaa lapsen fyysisiä kykyjä, minkä lisäksi se vaikuttaa positii
 
 ---
 
-![image1](/weemove/assets/img/image1.svg)
+![image1](/assets/img/image1.svg)
 
 # Mitä WEE-kerhoissa tapahtuu?
 
@@ -26,7 +26,7 @@ Jokaista kerhoa ohjaa aina vähintään yksi koulutettu liikunnanohjaaja tai -ne
 
 ---
 
-![image1](/weemove/assets/img/image2.svg)
+![image1](/assets/img/image2.svg)
 
 # WEE-kerhot
 

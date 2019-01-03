@@ -3,7 +3,7 @@ title: WEEMOVE
 logo: /assets/img/weemove-logo-black.svg
 email: we@weemove.fi
 description: "Tarjoamme lapsellesi hauskan liikuntakokemuksen joka antaa onnistumisen tunteita ja kasvattaa lapsen itseluottamusta"
-baseurl: "/weemove" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://weemove.fi" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-XXXXXXXX-N
 date_format: "%-d.%-m.%Y"
