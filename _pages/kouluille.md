@@ -2,7 +2,6 @@
 layout: page
 title: Kouluille
 description: Page description
-image: /assets/img/image1.svg
 ---
 
 Järjestämme räätälöityjä liikuntakerhoja yhteistyössä koulujen kanssa. Nämä kerhot ovat tarkoitettu ainoastaan koulujen omille oppilaille. 
