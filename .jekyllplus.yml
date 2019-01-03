@@ -1,0 +1,55 @@
+folders:
+  image: uploads
+
+collections:
+  pages:
+    name: Pages
+    fields:
+      - name: layout
+        label: Layout
+        type: string
+        default: page
+      - name: title
+        label: Title
+        type: string
+      - name: description
+        label: Description
+        type: string
+        description: Used for social media sharing and SEO
+      - name: image
+        label: Share image
+        type: image
+        description: Displayed at the top of the page and in social media shares. If no image provided the site fallbacks to the default share image.
+      - name: body
+        label: Body
+        type: markdown
+        autoresize: true
+  posts:
+    name: Posts
+    fields:
+      - name: published
+        label: Published
+        type: switch
+        default: false
+      - name: layout
+        label: Layout
+        type: string
+        default: post
+      - name: title
+        label: Title
+        type: string
+      - name: date
+        label: Date
+        type: date
+      - name: description
+        label: Description
+        type: string
+        description: Used for social media sharing and SEO
+      - name: image
+        label: Post image
+        type: image
+        description: Displayed at the top of the post and in social media shares. If no image provided the site fallbacks to the default share image.
+      - name: body
+        label: Body
+        type: markdown
+        autoresize: true
