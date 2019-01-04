@@ -14,6 +14,7 @@ Kokeilimme erilaisia kerhotoimintamalleja vuosien 2016 ja 2017 aikana. Osa ratka
 toimi, osa ei. Opimme, että lapset tarvitsevat turvallisen ympäristön, jossa he pääsevät
 innostumaan uusista haasteista ja kokeilemaan rajojaan - hauskanpitoa unohtamatta. Ja tämän
 seurauksena lähdimme viime vuonna laajentamaan kerhotoimintaamme toden teolla.
+
 Koska vanha, henkilökohtaista valmennusta varten suunniteltu Funktum ei enää palvellut
 alkuperäistä tarkoitusperäänsä, meistä syntyi WEEMOVE.
 
