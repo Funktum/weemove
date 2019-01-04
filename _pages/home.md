@@ -11,7 +11,7 @@ hero_btn_text: WEE-kerhot
 ---
 # Tarjoamme lapselle onnistumisia ohjatun liikunan kautta
 
-Liikunta parantaa lapsen fyysisiä kykyjä, minkä lisäksi se vaikuttaa positiivisesti mielenterveyteen, tunteidensäätelyyn ja kognitiiviseen kehitykseen. Uskomme, että voimme parantaa lapsesi itseluottamusta luomalla heille onnistumisen kokemuksia liikunnan avulla. Haluamme antaa lapsellesi mahdollisimman positiivisen kuvan liikunnasta, joka parhaimmillaan kantaa aikuisikään saakka. Kun lapsi kokee onnistumisen tunteen ja pääsee pitämään hauskaa, on tämä onnistuminen myös meille!
+Liikunta parantaa lapsen fyysisiä kykyjä, minkä lisäksi se vaikuttaa positiivisesti mielenterveyteen, tunteidensäätelyyn ja kognitiiviseen kehitykseen. Uskomme, että voimme parantaa lapsen itseluottamusta luomalla heille onnistumisen kokemuksia liikunnan avulla. Haluamme antaa lapselle mahdollisimman positiivisen kuvan liikunnasta, joka parhaimmillaan kantaa aikuisikään saakka. Kun lapsi kokee onnistumisen tunteen ja pääsee pitämään hauskaa, on tämä onnistuminen myös meille!
 
 >“Hieman ujo tyttäreni kertoi minulle loistavin silmin, kuinka hän oli kerhossa tehnyt eteen ja taaksepäin voltteja. Te olette kannustaneet häntä hyvällä tavalla ja luoneet turvallisen ilmapiirin, jossa hän uskalsi kokeilla sellaisia asioita, joita en olisi koskaan ajatellut hänen uskaltavan.”  
 >–&nbsp;Lapsen äiti
