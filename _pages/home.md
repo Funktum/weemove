@@ -32,10 +32,10 @@ Jokaista kerhoa ohjaa aina vähintään yksi koulutettu liikunnanohjaaja tai -ne
 
 # WEE-kerhot
 
-WEE-kerhoja järjestetään tällä hetkellä Uudellamaalla, näet tarkemmat ajankohdat ja sijainnit kunkin kerhon ilmoittautumissivulta.
+WEE-kerhoja järjestetään tällä hetkellä Helsingissä, Espoossa ja Sipoossa. Näet tarkemmat ajankohdat ja sijainnit kunkin kerhon ilmoittautumissivulta.
 
 <div class="flex-l">
-<div class="w-33-l" markdown="1">
+<div class="w-33-l pb3" markdown="1">
 ## WEE Parkour
 
 WEE Parkour tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta ja edistää ketteryyttä. Parkour toimii hyvänä oheisharrastuksena monelle muulle lajille monipuolisten liikeratojen ansiosta.
@@ -45,7 +45,7 @@ _Hinta 138€ (10 x 55min)_
 {% include button.html url="https://www.eventio.com/" text="Ilmoittaudu" %}
 </div>
 <div class="dn db-l w2-l"></div>
-<div class="w-33-l" markdown="1">
+<div class="w-33-l pb3" markdown="1">
 ## WEE Circus
 
 WEE Circuksess lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoja kuten akrobatiaa, jonglöörausta ja yksipyöräisellä ajamista. Sirkus kehittää tasapainoa, kehonhallintaa ja silmä-käsi koordinaatiota.
@@ -55,7 +55,7 @@ _Hinta 138€ (10 x 55min)_
 {% include button.html url="https://www.eventio.com/" text="Ilmoittaudu" %}
 </div>
 <div class="dn db-l w2-l"></div>
-<div class="w-33-l" markdown="1">
+<div class="w-33-l pb3" markdown="1">
 ## WEE Bounce
 
 WEE Bouncessa tutustumme hauskoihin ja hieman epätavallisiin pallopeleihin kuten kin-ballin, speedmintonin ja kaupunkitaisteluun. Epätavalliset pallopelit pienentävät tasoeroja ja antavat kaikille seikkailijoille onnistumisen tunteita.
