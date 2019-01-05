@@ -4,6 +4,8 @@ permalink: /rekry/
 title: WEEMVOE työpaikkana
 ---
 
+![Kuvitus](/uploads/weemove-illustration-2.png)
+
 Me etsimme jatkuvasti uusia liikunnanohjaajia ja apuohjaajia. Työ soveltuu hyvin opiskelijoille tai sivutoimiseksi työksi.
 Työ on melko itsenäistä, mutta opastamme sinut perusteellisesti alkuun. 
 
