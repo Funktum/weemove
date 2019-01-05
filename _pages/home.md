@@ -1,9 +1,9 @@
 ---
 permalink: /
 layout: home
-title: Innostava liikuntakerho 6–12 vuotiaalle seikkailijalle
+title: Innostava liikuntakerho 6–12-vuotiaalle seikkailijalle
 description: >-
-  Tarjoamme lapsellesi hauskan liikuntakokemuksen joka antaa onnistumisen
+  Anna lapsellesi hauska liikuntakokemuks, joka tuo onnistumisen
   tunteita ja kasvattaa lapsen itseluottamusta. WEE-kerhot ovat iltapäivisin
   järjestettäviä liikuntakerhoja.
 hero_btn: '#wee-kerhot'
@@ -22,7 +22,7 @@ Liikunta parantaa lapsen fyysisiä kykyjä, minkä lisäksi se vaikuttaa positii
 
 # Mitä WEE-kerhoissa tapahtuu?
 
-Aloitamme kerhon hauskalla alkuverryttelyllä/leikillä. Tämän jälkeen tutustumme lajiin ohjaajan opastuksella esimerkkien kautta. Lapset saavat harjoitella lajin eri osa-alueita ohjaajien avustuksella. Kerhon kohokohta on loppuleikki jossa päivän opit nivoutuvat yhteen. Kerhon päättekksi heitämme yläviitoset ja lähdemme hymysuin kotiin.
+Aloitamme kerhon hauskalla alkuverryttelyllä/leikillä. Tämän jälkeen tutustumme lajiin ohjaajan opastuksella esimerkkien kautta. Lapset saavat harjoitella lajin eri osa-alueita ohjaajien avustuksella. Kerhon kohokohta on loppuleikki, jossa päivän opit nivoutuvat yhteen. Kerhon päätteeksi heitämme yläviitoset ja lähdemme hymysuin kotiin.
 
 Jokaista kerhoa ohjaa aina vähintään yksi koulutettu liikunnanohjaaja tai -neuvoja. Käytämme aina kahta ohjaajaa, kun ryhmään osallistuu vähintään 12 lasta.
 
@@ -38,7 +38,7 @@ WEE-kerhoja järjestetään tällä hetkellä Helsingissä, Espoossa ja Sipoossa
 <div class="w-33-l pb3" markdown="1">
 ## WEE Parkour
 
-WEE Parkour tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta ja edistää ketteryyttä. Parkour toimii hyvänä oheisharrastuksena monelle muulle lajille monipuolisten liikeratojen ansiosta.
+WEE Parkour tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta ja edistää ketteryyttä. Parkour toimii hyvänä oheisharrastuksena monelle muulle lajille sen monipuolisten liikeratojen ansiosta.
 
 _Hinta 138€ (10 x 55min)_
 
@@ -48,7 +48,7 @@ _Hinta 138€ (10 x 55min)_
 <div class="w-33-l pb3" markdown="1">
 ## WEE Circus
 
-WEE Circuksess lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoja kuten akrobatiaa, jonglöörausta ja yksipyöräisellä ajamista. Sirkus kehittää tasapainoa, kehonhallintaa ja silmä-käsi koordinaatiota.
+WEE Circuksessa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoja, kuten akrobatiaa, jonglöörausta ja yksipyöräisellä ajamista. Sirkus kehittää tasapainoa, kehonhallintaa ja silmä-käsi koordinaatiota.
 
 _Hinta 138€ (10 x 55min)_
 
@@ -58,7 +58,7 @@ _Hinta 138€ (10 x 55min)_
 <div class="w-33-l pb3" markdown="1">
 ## WEE Bounce
 
-WEE Bouncessa tutustumme hauskoihin ja hieman epätavallisiin pallopeleihin kuten kin-ballin, speedmintonin ja kaupunkitaisteluun. Epätavalliset pallopelit pienentävät tasoeroja ja antavat kaikille seikkailijoille onnistumisen tunteita.
+WEE Bouncessa tutustumme hauskoihin ja hieman epätavallisiin pallopeleihin, kuten kin-balliin, speedmintoniin ja kaupunkitaisteluun. Epätavalliset pallopelit pienentävät tasoeroja ja antavat kaikille seikkailijoille onnistumisen tunteita.
 
 _Hinta 138€ (10 x 55min)_
 
@@ -66,7 +66,7 @@ _Hinta 138€ (10 x 55min)_
 </div>
 </div>
 
-**Tyytyväisyystakuu:** jos lapsi lapsi ei ole tyytyväinen ensimmäisen kerran jälkeen, saat rahasi takaisin.
+**Tyytyväisyystakuu:** Jos lapsi ei ole tyytyväinen ensimmäisen kerran jälkeen, saat rahasi takaisin.
 
 ---
 
@@ -74,7 +74,7 @@ _Hinta 138€ (10 x 55min)_
 
 {% include people.html %}
 
-Kaikki ohjaajamme ovat koulutettuja liikunnanohjaaja tai -neuvoja joilla on paljon kokemusta lasten kanssa liikumisesta. Jos sinulla on kysyttävää, laita meille sähköpostia osoitteeseen [{{site.email}}](mailto:{{site.email}})
+Kaikki ohjaajamme ovat koulutettuja liikunnanohjaajia tai -neuvojia, joilla on paljon kokemusta lasten kanssa liikkumisesta. Jos sinulla on kysyttävää, laita meille sähköpostia osoitteeseen [{{site.email}}](mailto:{{site.email}})
 
 ---
 
