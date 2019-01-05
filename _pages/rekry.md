@@ -13,7 +13,7 @@ Kuulostaako tämä sinun työltäsi? Tykkäätkö tehdä töitä lasten kanssa?
 
 Mikäli kiinnostuit, ota yhteyttä: rekry@weemove.fi
 
-
+---
 
 # WEEMOVE som arbetsplats
 
@@ -25,3 +25,5 @@ Vi på WEEMOVE värderar ansvarsfulla, pålitliga och öppensinnade personer. Vi
 Känner du igen dig i beskrivningen? Tycker du om att jobba med barn? 
 
 Skicka i så fall en öppen ansökan till: rekry@weemove.fi
+
+---
