@@ -26,4 +26,5 @@ Lapsen onnistunut liikuntakokemus syntyy kolmesta peruspilarista:
 - Lapsilla tulee olla hauskaa, jotta he saavat positiivisen kokemuksen liikunnasta.
 - Luomme lapselle turvallisen ympäristön harrastaa liikuntaa hänen omalla tasollaan.
 - Kannustamme lasta ylittämään itsensä. Tällä on suuri vaikutus lapsen itseluottamukseen.
+
 Jos lapsella on hauskaa ja hän saa onnistumisen tunteita, olemme mekin onnistuneet työssämme! 
