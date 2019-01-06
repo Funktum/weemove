@@ -9,7 +9,7 @@ title: WEEMVOE työpaikkana
 Me etsimme jatkuvasti uusia liikunnanohjaajia ja apuohjaajia. Työ soveltuu hyvin opiskelijoille tai sivutoimiseksi työksi.
 Työ on melko itsenäistä, mutta opastamme sinut perusteellisesti alkuun. 
 
-Arcostamme vastuuntuntoa, luotettavuutta ja avaramielisyyttä. Halu kehittää toimintaa nähdään myös plussana. 
+Arvostamme vastuuntuntoa, luotettavuutta ja avaramielisyyttä. Halu kehittää toimintaa nähdään myös plussana. 
 
 Kuulostaako tämä sinun työltäsi? Tykkäätkö tehdä töitä lasten kanssa? 
 
