@@ -42,7 +42,7 @@ WEE Parkour tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta
 
 _Hinta 138€ (10 x 55min)_
 
-{% include button.html url="https://www.eventio.com/" text="Ilmoittaudu" %}
+{% include button.html url="https://funktum.tapahtumiin.fi/fi/" text="Ilmoittaudu" %}
 </div>
 <div class="dn db-l w2-l"></div>
 <div class="w-33-l pb3" markdown="1">
@@ -52,7 +52,7 @@ WEE Circuksessa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muoto
 
 _Hinta 138€ (10 x 55min)_
 
-{% include button.html url="https://www.eventio.com/" text="Ilmoittaudu" %}
+{% include button.html url="https://funktum.tapahtumiin.fi/fi/" text="Ilmoittaudu" %}
 </div>
 <div class="dn db-l w2-l"></div>
 <div class="w-33-l pb3" markdown="1">
@@ -62,7 +62,7 @@ WEE Bouncessa tutustumme hauskoihin ja hieman epätavallisiin pallopeleihin, kut
 
 _Hinta 138€ (10 x 55min)_
 
-{% include button.html url="https://www.eventio.com/" text="Ilmoittaudu" %}
+{% include button.html url="https://funktum.tapahtumiin.fi/fi/" text="Ilmoittaudu" %}
 </div>
 </div>
 
