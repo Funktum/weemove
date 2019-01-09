@@ -14,6 +14,7 @@ omalla tasollaan.
 3. Kuuntelemme ohjaajia ja seuraamme ohjeistuksia
 4. Osallistumme aktiviteetteihin niin hyvin kuin osaamme
 
+---
 
 # Klubbregler
 
