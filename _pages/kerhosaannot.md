@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /kerhosäännöt/
+permalink: /kerhosaannot/
 title: Kerhosäännöt
 ---
 
