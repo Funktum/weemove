@@ -40,7 +40,7 @@ WEE-kerhoja järjestetään tällä hetkellä Helsingissä, Espoossa ja Sipoossa
 
 WEE Parkour tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta ja edistää ketteryyttä. Parkour toimii hyvänä oheisharrastuksena monelle muulle lajille sen monipuolisten liikeratojen ansiosta.
 
-_Hinta 138€ (10 x 55min)_
+_Löydä lähin kerho_
 
 {% include button.html url="https://funktum.tapahtumiin.fi/fi/p/parkour" text="Ilmoittaudu" %}
 </div>
@@ -50,7 +50,7 @@ _Hinta 138€ (10 x 55min)_
 
 WEE Circuksessa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoja, kuten akrobatiaa, jonglöörausta ja yksipyöräisellä ajamista. Sirkus kehittää tasapainoa, kehonhallintaa ja silmä-käsi koordinaatiota.
 
-_Hinta 138€ (10 x 55min)_
+_Löydä lähin kerho_
 
 {% include button.html url="https://funktum.tapahtumiin.fi/fi/p/circus" text="Ilmoittaudu" %}
 </div>
@@ -60,7 +60,7 @@ _Hinta 138€ (10 x 55min)_
 
 WEE Bouncessa tutustumme hauskoihin ja hieman epätavallisiin pallopeleihin, kuten kin-balliin, speedmintoniin ja kaupunkitaisteluun. Epätavalliset pallopelit pienentävät tasoeroja ja antavat kaikille seikkailijoille onnistumisen tunteita.
 
-_Hinta 138€ (10 x 55min)_
+_Löydä lähin kerho_
 
 {% include button.html url="https://funktum.tapahtumiin.fi/fi/p/bounce" text="Ilmoittaudu" %}
 </div>
