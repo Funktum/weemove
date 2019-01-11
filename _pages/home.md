@@ -3,7 +3,7 @@ permalink: /
 layout: home
 title: Innostava liikuntakerho 6–12-vuotiaalle seikkailijalle
 description: >-
-  Anna lapsellesi hauska liikuntakokemuks, joka tuo onnistumisen
+  Anna lapsellesi hauska liikuntakokemus, joka tuo onnistumisen
   tunteita ja kasvattaa lapsen itseluottamusta. WEE-kerhot ovat iltapäivisin
   järjestettäviä liikuntakerhoja.
 hero_btn: '#wee-kerhot'
