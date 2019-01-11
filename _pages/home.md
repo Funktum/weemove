@@ -9,7 +9,7 @@ description: >-
 hero_btn: '#wee-kerhot'
 hero_btn_text: WEE-kerhot
 ---
-# Tarjoamme lapselle onnistumisia ohjatun liikunan kautta
+# Tarjoamme lapselle onnistumisia ohjatun liikunnan kautta
 
 Liikunta parantaa lapsen fyysisiä kykyjä, minkä lisäksi se vaikuttaa positiivisesti mielenterveyteen, tunteidensäätelyyn ja kognitiiviseen kehitykseen. Uskomme, että voimme parantaa lapsen itseluottamusta luomalla heille onnistumisen kokemuksia liikunnan avulla. Haluamme antaa lapselle mahdollisimman positiivisen kuvan liikunnasta, joka parhaimmillaan kantaa aikuisikään saakka. Kun lapsi kokee onnistumisen tunteen ja pääsee pitämään hauskaa, on tämä onnistuminen myös meille!
 
