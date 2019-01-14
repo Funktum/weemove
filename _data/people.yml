@@ -1,15 +1,15 @@
 - name: Sampsa Visuri
-  image: http://www.funktum.fi/assets/img/sampsa.jpg
+  image: /uploads/sampsa.jpg
   phone: +358 40 351 3174
 
 - name: Linnea Lindgård
-  image: http://www.funktum.fi/assets/img/linnea.jpg
+  image: /uploads/linnea.jpg
   phone: +358 44 061 2955
 
 - name: Johanna Onnela
-  image: https://via.placeholder.com/320
+  image:
   phone: +358 50 532 1395
 
 - name: Tommy Borg
-  image: http://www.funktum.fi/assets/img/tommy.jpg
+  image: /uploads/tommy.jpg
   phone: +358 44 254 6460

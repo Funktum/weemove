@@ -1,7 +1,7 @@
 <div class="flex flex-wrap justify-around">
 {% for item in site.data.people %}
   <div class="tc pv3 ph3-ns">
-    <img src="{{ item.image }}" alt="{{ item.name }}" class="w4 h4 dib br-pill mb3">
+    <div class="w4 h4 br-pill mb3 cover bg-center" style="background-image: url({{ item.image | default: "/assets/img/user.jpg" }})"></div>
     <div class="fw7">{{ item.name }}</div>
     <div class="f5">{{ item.phone }}</div>
   </div>
