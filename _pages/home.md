@@ -48,7 +48,7 @@ _Löydä lähin kerho_
 <div class="w-33-l pb3" markdown="1">
 ## WEE Circus
 
-WEE Circuksessa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoja, kuten akrobatiaa, jonglöörausta ja yksipyöräisellä ajamista. Sirkus kehittää tasapainoa, kehonhallintaa ja silmä-käsi koordinaatiota.
+WEE Circuksessa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoja, kuten akrobatiaa, jonglöörausta ja diabololla temppuilua. Sirkus kehittää tasapainoa, kehonhallintaa ja silmä-käsi koordinaatiota.
 
 _Löydä lähin kerho_
 
