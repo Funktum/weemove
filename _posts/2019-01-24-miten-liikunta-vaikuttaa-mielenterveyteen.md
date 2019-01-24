@@ -6,6 +6,7 @@ date: '2019-01-04'
 image: /uploads/weemove-illustration-1.png
 ---
 
+![kids jump compressed.jpg]({{site.baseurl}}/_posts/kids jump compressed.jpg)
 
 
 Pitkään on tiedetty, että liikunta parantaa lapsen fyysisiä ominaisuuksia. Itseasiassa pohja
