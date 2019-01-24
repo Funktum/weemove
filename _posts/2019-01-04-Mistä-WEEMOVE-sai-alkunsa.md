@@ -2,8 +2,6 @@
 published: true
 layout: post
 title: Mistä WEEMOVE sai alkunsa? 
-date: '2019-01-04'
-image: /uploads/weemove-illustration-1.png
 ---
 
 
