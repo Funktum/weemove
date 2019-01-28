@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Miten liikunta vaikuttaa mielenterveyteen?
-date: '2019-01-04'
+date: '2019-01-24'
 image: /uploads/Kids-colour-compressed.jpg
 ---
 
