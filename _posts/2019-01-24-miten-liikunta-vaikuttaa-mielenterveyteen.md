@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Miten liikunta vaikuttaa mielenterveyteen?
 date: '2019-01-04'
-image: /uploads/weemove-illustration-1.png
+image: /uploads/kids jump compressed.jpg
 ---
 
 
