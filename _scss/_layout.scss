@@ -29,6 +29,10 @@
 
 // Custom
 
+.smooth-scroll {
+  scroll-behavior: smooth;
+}
+
 @include break(large) {
   .f-title-l {
     font-size: 4rem;
