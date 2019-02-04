@@ -5,7 +5,7 @@ email: we@weemove.fi
 description: "Tarjoamme lapsellesi hauskan liikuntakokemuksen joka antaa onnistumisen tunteita ja kasvattaa lapsen itseluottamusta"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://weemove.fi" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics: UA-XXXXXXXX-N
+google_analytics: UA-66809541-1
 date_format: "%-d.%-m.%Y"
 facbook: https://www.facebook.com/Funktum
 
