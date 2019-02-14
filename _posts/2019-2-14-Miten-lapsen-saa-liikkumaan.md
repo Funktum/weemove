@@ -47,7 +47,6 @@ hyödyllisintä. Luuston kehitys vaatii lisäksi iskuja, esimerkiksi hyppyjen mu
 huomattavasti, tulisi lasten liikkua vähintään tunti päivässä. Liikunnan tulisi olla intensiteetiltään 
 keskiraskasta tai raskasta.
 
----
 
 Tutkimuslähde: _Systematic review of the health benefits of physical activity and fitness in school-aged children and youth 
 (Janssen and LeBlanc; licensee BioMed Central Ltd. 2010)_
