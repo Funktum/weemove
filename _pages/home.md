@@ -32,7 +32,7 @@ Jokaista kerhoa ohjaa aina vähintään yksi koulutettu liikunnanohjaaja tai -ne
 
 # WEE-kerhot
 
-WEE-kerhoja järjestetään tällä hetkellä Helsingissä, Espoossa ja Sipoossa. Näet tarkemmat ajankohdat ja sijainnit kunkin kerhon ilmoittautumissivulta.
+WEE-kerhoja järjestetään tällä hetkellä Helsingissä ja Espoossa. Näet tarkemmat ajankohdat ja sijainnit kunkin kerhon ilmoittautumissivulta.
 
 <div class="flex-l">
 <div class="w-33-l pb3" markdown="1">
