@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Miten lapsen saa liikkumaan? 
+image: /uploads/Liikunnan ilo.jpg
 ---
 
 Lasten liikunnasta puhutaan jatkuvasti. Huoli lasten liikunnan vähäisyydestä on havaittavissa. 
