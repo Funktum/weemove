@@ -48,12 +48,15 @@ tarvittavan m채채r채n apuohjaajia osallistujam채채r채st채 riippuen takaaman hyv�
 
 ---
 
-{% include button.html url="" text="Ilmoittaudu" %}
+__Leirikoordinaattori:__ Johanna Onnela, johanna@funktum.fi, +358 50 532 1395
 
 ---
 
+{% include button.html url="" text="Ilmoittaudu" %}
 
-__Leirikoordinaattori:__ Johanna Onnela, johanna@funktum.fi, +358 50 532 1395
+
+
+
 
 
 
