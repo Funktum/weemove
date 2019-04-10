@@ -1,9 +1,13 @@
 ---
 permalink: /
 layout: home
-title: Parkour kesäleiri nuorelle liikkujalle
-description: >- Huippuhauska parkourleiri sopii kaikille itsensä haastamisesta kiinnostuneille lapsille ja nuorille!
-
+title: Innostava liikuntakerho 6–12-vuotiaalle seikkailijalle
+description: >-
+  Anna lapsellesi hauska liikuntakokemus, joka tuo onnistumisen
+  tunteita ja kasvattaa lapsen itseluottamusta. WEE-kerhot ovat iltapäivisin
+  järjestettäviä liikuntakerhoja.
+hero_btn: ''
+hero_btn_text: Ilmoittaudu
 ---
 
 Tervetuloa mukaan huippu hauskalle parkour kesäleirille! Leiri järjestetään elokuun ensimmäisellä viikolla, juuri ennen koulun 
