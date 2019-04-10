@@ -1,13 +1,7 @@
 ---
-permalink: /
-layout: home
-title: Innostava liikuntakerho 6–12-vuotiaalle seikkailijalle
-description: >-
-  Anna lapsellesi hauska liikuntakokemus, joka tuo onnistumisen
-  tunteita ja kasvattaa lapsen itseluottamusta. WEE-kerhot ovat iltapäivisin
-  järjestettäviä liikuntakerhoja.
-hero_btn: ''
-hero_btn_text: Ilmoittaudu
+layout: page
+permalink: /leiri/
+title: Parkourleiri
 ---
 
 Tervetuloa mukaan huippu hauskalle parkour kesäleirille! Leiri järjestetään elokuun ensimmäisellä viikolla, juuri ennen koulun 
