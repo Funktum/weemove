@@ -44,4 +44,8 @@ tarvittavan määrän apuohjaajia osallistujamäärästä riippuen takaaman hyv�
 - Osallistujat tuovat omat eväät mukaan leirille
 - Tarkemmat tiedot varustuksesta, leirisäännöistä ja kokoontumispaikoista tulevat sähköpostitse ilmoittautumisen jälkeen
 
+---
+
+{% include button.html url="" text="Ilmoittaudu" %}
+
 
