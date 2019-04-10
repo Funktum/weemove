@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /kesäleirit/
+permalink: /kesäleiri/
 title: Parkour- kesäleiri
 ---
 
@@ -50,9 +50,8 @@ tarvittavan määrän apuohjaajia osallistujamäärästä riippuen takaaman hyv�
 
 ---
 
-### Yhteystiedot
 
-Leirikordinaattori: Johanna Onnela, johanna@funktum.fi, +358 50 532 1395
+__Leirikordinaattori:__ Johanna Onnela, johanna@funktum.fi, +358 50 532 1395
 
 
 
