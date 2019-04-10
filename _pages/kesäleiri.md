@@ -2,6 +2,8 @@
 layout: page
 permalink: /leiri/
 title: Parkourleiri
+image: /uploads/weemove-illustration-2.png
+
 ---
 
 Tervetuloa mukaan huippu hauskalle parkour kesäleirille! Leiri järjestetään elokuun ensimmäisellä viikolla, juuri ennen koulun 
