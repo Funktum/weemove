@@ -45,6 +45,7 @@ tarvittavan määrän apuohjaajia osallistujamäärästä riippuen takaaman hyv�
 - Aiempaa parkourkokemusta ei osallistujilta vaadita!
 - Osallistujat tuovat omat eväät mukaan leirille
 - Tarkemmat tiedot varustuksesta, leirisäännöistä ja kokoontumispaikoista tulevat sähköpostitse ilmoittautumisen jälkeen
+- Vi talar också svenska!
 
 
 __Leirikoordinaattori:__ Johanna Onnela, johanna@funktum.fi, +358 50 532 1395
