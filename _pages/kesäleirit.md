@@ -1,7 +1,9 @@
 ---
-layout: page
-permalink: /kesäleiri/
-title: Parkour- kesäleiri
+permalink: /
+layout: home
+title: Parkour kesäleiri nuorelle liikkujalle
+description: >- Huippuhauska parkourleiri sopii kaikille itsensä haastamisesta kiinnostuneille lapsille ja nuorille!
+
 ---
 
 Tervetuloa mukaan huippu hauskalle parkour kesäleirille! Leiri järjestetään elokuun ensimmäisellä viikolla, juuri ennen koulun 
