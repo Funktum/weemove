@@ -39,7 +39,7 @@ tarvittavan määrän apuohjaajia osallistujamäärästä riippuen takaaman hyv�
 
 ### Aikataulut ja yhteenveto
 
-- Leiri järjestetään 29.7 - 2.8.2019, klo 10:00 - 15:00 (5h)
+- Leiri järjestetään 29.7 - 2.8.2019, klo 10:00 - 15:00 (5h/päivä)
 - Leiripaikkana toimii Matinkylän Urheilupuisto, Matinkartanontie 5, 02230 Espoo
 - Leiriä ohjaa koulutetut liikunnanohjaajat ja parkourosaajat
 - Aiempaa parkourkokemusta ei osallistujilta vaadita!
