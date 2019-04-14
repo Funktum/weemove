@@ -17,9 +17,7 @@ Tavoitteemme on että kaikki pääsevät jossain vaiheessa ylittämään itsens�
 
 ### Leirialue
 Leiri järjestetään Matinkylän urheilupuistossa 1,3km Isosta Omenasta. Alueella on parkour puisto, tekonurmi, BMX rata ja lähistöllä
-myös uimaranta. Oleskelemme enimmikseen ulkona, mutta huonon sään iskiessä on meillä käytössä myös läheisen koulun luokkatila.
-Pyrimme kuitenkin olemaan mahdollisimman paljon ulkona ja tästä syystä suosittelemme pukeutumaan sään mukaan. 
-
+myös uimaranta. Olemme paljon ulkona, joten sään mukainen varustus mukaan!
 ### Ohjelma
 Leirin alussa harjoittelemme parkourin perusteita. Leirin edetessä tulee haasteita vähitellen lisää. Parkourin ohella 
 harjoittelemme myös slack line -tasapainoilua, erilaisia hauskoja pelejä ja leikkejä, käymme uimassa ja leirin kruunaa WEEMOVE
