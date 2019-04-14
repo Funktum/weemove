@@ -25,7 +25,7 @@ survivors.
 
 ### Ruokailu
 Leirille ei ole järjestetty erillistä ruokailua. Osallistujilla tulee olla omat eväät mukana. Leirillä pidämme lounastauon ja 
-välipalatauon, jollin eväitä voi syödä. Leirillä on tajolla vettä ja mehua. 
+välipalatauon, jolloin eväitä voi syödä. Leirillä on tajolla vettä ja mehua. 
 
 ### Metro
 Matinkylään pääsee kätevästi metrolla. Yksi ohjaajistamme tulee metroasemalle noutamaan leiriosallistujia puoli tuntia ennen 
