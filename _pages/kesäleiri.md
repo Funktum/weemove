@@ -48,11 +48,12 @@ tarvittavan määrän apuohjaajia osallistujamäärästä riippuen takaaman hyv�
 
 __Leirikoordinaattori:__ Johanna Onnela, johanna@funktum.fi, +358 50 532 1395
 
+__Ilmoittautumis- ja laskutusasiat:__ Sampsa Visuri, sampsa@funktum.fi, +358 40 351 3174
+
 ---
 
 {% include button.html url="" text="Ilmoittaudu" %}
 
-__Ilmoittautuminen ei ole vielä auki.__
 
 _Ilmoittautuminen on sitova. Ilmoittautumisen voi perua ennen 1.7.2019, jolloin palautamme puolet leirimaksusta. Myöhemmistä peruutuksista emme palauta leirimaksua. Sairaustapauksissa leirimaksu voidaan maksaa takaisin, mikäli lääkärintodistus toimitetaan ennen leirin alkua._
 
