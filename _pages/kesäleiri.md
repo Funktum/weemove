@@ -28,7 +28,7 @@ Leirille ei ole järjestetty erillistä ruokailua. Osallistujilla tulee olla oma
 välipalatauon, jolloin eväitä voi syödä. Leirillä on tajolla vettä ja mehua. 
 
 ### Metro
-Matinkylään pääsee kätevästi metrolla. Yksi ohjaajistamme tulee metroasemalle noutamaan leiriosallistujia puoli tuntia ennen 
+Matinkylään pääsee kätevästi metrolla. Yksi ohjaajistamme tulee metroasemalle noutamaan metrolla tulijoita puoli tuntia ennen 
 leiripäivän alkamista (09:30). Metroasemalta siirrytään yhdessä ohjaajan kanssa urheilupuistolle. 
 
 ### Ohjaajat
