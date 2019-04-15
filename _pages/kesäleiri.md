@@ -52,7 +52,7 @@ __Ilmoittautumis- ja laskutusasiat:__ Sampsa Visuri, sampsa@funktum.fi, +358 40 
 
 ---
 
-{% include button.html url="" text="Ilmoittaudu" %}
+{% include button.html url="https://funktum.tapahtumiin.fi/fi/p/leirit" text="Ilmoittaudu" %}
 
 
 _Ilmoittautuminen on sitova. Ilmoittautumisen voi perua ennen 1.7.2019, jolloin palautamme puolet leirimaksusta. Myöhemmistä peruutuksista emme palauta leirimaksua. Sairaustapauksissa leirimaksu voidaan maksaa takaisin, mikäli lääkärintodistus toimitetaan ennen leirin alkua._
