@@ -11,7 +11,7 @@ hero_btn_text: WEE-kerhot
 ---
 
 
-{% include button.html url="/leiri" text="Parkour kesäleiri 2019!" %}
+{% include button.html url="/leiri" text="Tutustu parkour kesäleiriimme!" %}
 
 # Tarjoamme lapselle onnistumisia ohjatun liikunnan kautta
 
