@@ -9,7 +9,7 @@ image: /uploads/weemove-illustration-2.png
 Tervetuloa mukaan huippuhauskalle parkour-kesäleirille! Leiri järjestetään elokuun
 ensimmäisellä viikolla, juuri ennen koulujen alkamista. Järjestämme kaksi eri ryhmää:
 nuorempi 6-9-vuotiaiden ryhmä ja vanhempi 10-14-vuotiaiden ryhmä. Leiritoimintaa
-järjestetään klo 10.00-15.00 välillä. Aiempaa kokemusta parkourista ei tarvita! 
+järjestetään klo 10.00-15.00 välillä. Lapsen voi tuoda leirialueelle jo klo 08:00, jolloin ohjaaja on paikanpäällä. Aiempaa kokemusta parkourista ei tarvita! 
 
 ### Parkour
 Parkourissa on tarkoitus päästä pisteestä A pisteeseen B mahdollisimman nopeasti ja
