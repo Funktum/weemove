@@ -42,7 +42,7 @@ WEE-kerhoja järjestetään tällä hetkellä Helsingissä ja Espoossa. Näet ta
 
 WEE Parkour tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta ja edistää ketteryyttä. Parkour toimii hyvänä oheisharrastuksena monelle muulle lajille sen monipuolisten liikeratojen ansiosta.
 
-{% include button.html url="https://funktum.tapahtumiin.fi/fi/p/parkour" text="Löydä lähin kerho" %}
+{% include button.html url="https://weemove.tapahtumiin.fi/fi/p/parkour" text="Löydä lähin kerho" %}
 </div>
 <div class="dn db-l w2-l"></div>
 <div class="w-33-l pb3" markdown="1">
@@ -50,7 +50,7 @@ WEE Parkour tuo lapselle uusia motorisia taitoja, parantaa oman kehon hahmotusta
 
 WEE Circuksessa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muotoja, kuten akrobatiaa, jonglöörausta ja diabololla temppuilua. Sirkus kehittää tasapainoa, kehonhallintaa ja silmä-käsi koordinaatiota.
 
-{% include button.html url="https://funktum.tapahtumiin.fi/fi/p/circus" text="Löydä lähin kerho" %}
+{% include button.html url="https://weemove.tapahtumiin.fi/fi/p/circus" text="Löydä lähin kerho" %}
 </div>
 <div class="dn db-l w2-l"></div>
 <div class="w-33-l pb3" markdown="1">
@@ -58,7 +58,7 @@ WEE Circuksessa lapset pääsevät kokeilemaan yleisimpiä sirkustaiteilun muoto
 
 WEE Bouncessa tutustumme hauskoihin ja hieman epätavallisiin pallopeleihin, kuten kin-balliin, speedmintoniin ja kaupunkitaisteluun. Epätavalliset pallopelit pienentävät tasoeroja ja antavat kaikille seikkailijoille onnistumisen tunteita.
 
-{% include button.html url="https://funktum.tapahtumiin.fi/fi/p/bounce" text="Löydä lähin kerho" %}
+{% include button.html url="https://weemove.tapahtumiin.fi/fi/p/bounce" text="Löydä lähin kerho" %}
 </div>
 </div>
 
