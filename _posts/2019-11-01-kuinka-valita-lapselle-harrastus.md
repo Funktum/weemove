@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Kuinka valita lapselle harrastus? 
+image: /uploads/Calle koriboll.jpg
 ---
 
 
