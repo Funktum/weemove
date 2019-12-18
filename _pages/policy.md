@@ -4,6 +4,8 @@ permalink: /policy/
 title: WEEMVOE policy
 ---
 
+![Kuvitus](/uploads/weemove-illustration-2.png)
+
 ### Näin pyrimme tekemään kerhosta hauskan ja turvallisen 
 
 Me WEEMOVE:lla pyrimme parhaamme mukaan toimimaan siten, että kerhossa on mukava ja turvallinen ilmapiiri. 
