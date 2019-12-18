@@ -13,7 +13,7 @@ Arvostamme vastuuntuntoa, luotettavuutta ja avaramielisyyttä. Halu kehittää t
 
 Kuulostaako tämä sinun työltäsi? Tykkäätkö tehdä töitä lasten kanssa? 
 
-Mikäli kiinnostuit, ota yhteyttä: rekry@weemove.fi
+Mikäli kiinnostuit, ota yhteyttä: linnea@funktum.fi
 
 ---
 
@@ -26,6 +26,6 @@ Vi på WEEMOVE värderar ansvarsfulla, pålitliga och öppensinnade personer. Vi
 
 Känner du igen dig i beskrivningen? Tycker du om att jobba med barn? 
 
-Skicka i så fall en öppen ansökan till: rekry@weemove.fi
+Skicka i så fall en öppen ansökan till: linnea@funktum.fi
 
 ---
