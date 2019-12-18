@@ -49,7 +49,7 @@ eli 80€. Jos kerhon ohjaaja erottaa osallistujan huonon käytöksen takia, emm
 ### Vakuutukset 
 
 Välillä sattuu ja tapahtuu, jonka takia meillä on tapaturmavakuutus IF:in kautta mikäli kerhoon osallistunut 
-lapsi loukkaantuu. Vakuutuksemme kattaa tapaturman hoitokulut 5000€ asti ja pysyvän haitan sattuessa 20 000€ asti. 
+lapsi loukkaantuu. Vakuutuksemme kattaa tapaturman hoitokulut 5000€ asti ja pysyvän haitan sattuessa 20.000€ asti. 
 Kelan piiriin kuulumattomat henkilöt eivät sisälly vakuutukseen. Suosittelemme että osallistujilla on vakuutus myös 
 kodin kautta. Huomioikaa ettei Funktum Oy (WEEMOVE) korvaa muuta kuin mitä vakuutus kattaa. Pyrimme aina toteuttamaan 
 kerhon mahdollisimman turvallisella tavalla, jotta vältyttäisiin tapaturmilta. 
