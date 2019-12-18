@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /policy/
-title: WEEMVOE policy
+title: WEEMOVE policy
 ---
 
 ![Kuvitus](/uploads/weemove-illustration-2.png)
