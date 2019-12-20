@@ -36,7 +36,7 @@ Koulun vastuuseen kuuluu ilmoittaa WEEMOVE:lle tai kerhon ohjaajalle, mikäli li
 käytettävissä kerhopäivänä. Yllä mainittujen tahojen vastuuseen kuuluu myös sopia meidän kanssa erikseen esimerkiksi 
 pukuhuoneiden valvonnasta. Oletamme että henkilökunta tuo (pienet)lapset paikalle ja hakevat lapset liikuntakerhosta, 
 ellei toisin sovita. Näistä asioista voi sopia suoraan ohjaajan kanssa tai olla yhteydessä meihin 
-(Sampsa Visuri tai Linnea Lindgård). 
+(Sampsa Visuri 040 351 3174 tai Linnea Lindgård 044 061 2955). 
 
 ### Oikeus kerhomaksun palautukseen 
 
