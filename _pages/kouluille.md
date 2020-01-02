@@ -8,7 +8,7 @@ Järjestämme räätälöityjä liikuntakerhoja yhteistyössä koulujen kanssa. 
 
 Pyrimme ratkaisemaan kerhon rahoituksen tavalla, joka tukee koulun linjauksia. Yleisin tapa on, että vanhemmat kustantavat lapsen kerhomaksun. Olemme myös tehneet vanhempainyhdistysten ja sponsoreiden kanssa yhteistyötä, jolloin kerhot on saatu toteutettua. 
 
-Järjestämme ohjattua liikuntaa sekä suomeksi että ruotsiksi ja kaikki ohjaajamme ovat koulutettuja liikunta-alan ammattilaisia. Toimimme tällä hetkellä 13:ssa eri koulussa Helsingissä ja Espoossa. 
+Järjestämme ohjattua liikuntaa sekä suomeksi että ruotsiksi ja kaikki ohjaajamme ovat koulutettuja liikunta-alan ammattilaisia. Toimimme tällä hetkellä 14:ssa eri koulussa Helsingissä ja Espoossa. 
 
 Monipuolisen liikuntaharrastuksen tarjoaminen lapsille käy helposti koulupäivän jälkeen ja on vaivattominta myös vanhemmille. 
 
