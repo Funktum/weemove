@@ -15,11 +15,6 @@ Välkommen med!
 
 ### Information
 
-Plats: Drumsö
-
-
-Tid:
-
 Lägervecka 1: 1-5.6
 
 Lägervecka 2: 8-12.6
@@ -27,11 +22,7 @@ Lägervecka 2: 8-12.6
 Lägervecka 3: 15-18.6
 
 
-
-Grupper: 2
-
-1. 6-9 år
-2. 10-12 år
+Vi håller en grupp för 6-9 år och en för 10-12 år.
 
 
 Dagstidtabell (exempel):
@@ -40,6 +31,7 @@ kl. 10.00-12.00 parkour
 kl. 12.00 matpaus
 kl. 13.00-15.00 fånga flaggan
 kl. 15.00-16.00 hämtning och fri lek
+
 
 Anmälning
 
@@ -57,4 +49,4 @@ Har ert barn deltagit i någon av våra klubbar tidigare? Ta i så fall kontakt 
 
 
 OBS! Minimidelatagarmängd: 10.
-Inhibering av plats måste ske senast i maj för att kunna få 50% tillbaka. ??
+Inhibering av plats måste ske senast före 15.05.2020 för att kunna få 50% av summan tillbaka.
