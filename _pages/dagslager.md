@@ -48,5 +48,7 @@ WEE-rabatt!
 Har ert barn deltagit i någon av våra klubbar tidigare? Ta i så fall kontakt med oss, så får ni en rabattkod som ger 15% rabatt på slutsumman.
 
 
-OBS! Minimidelatagarmängd: 10.
+OBS! Minimideltagarmängd: 10
+
+
 Inhibering av plats måste ske senast före 15.05.2020 för att kunna få 50% av summan tillbaka.
