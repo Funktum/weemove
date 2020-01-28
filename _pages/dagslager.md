@@ -25,6 +25,8 @@ Lägervecka 2: 8-12.6
 
 Lägervecka 3: 15-18.6
 
+---
+
 
 Vi håller en grupp för 6-9 år och en för 10-12 år.
 
