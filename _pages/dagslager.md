@@ -13,6 +13,8 @@ Senare under våren informerar vi närmare uppgifter om samlings-, och hämtning
 
 Välkommen med!
 
+---
+
 ### Information
 
 Lägervecka 1: 1-5.6
@@ -24,7 +26,7 @@ Lägervecka 3: 15-18.6
 
 Vi håller en grupp för 6-9 år och en för 10-12 år.
 
-
+---
 
 
 Dagstidtabell (exempel):
@@ -40,7 +42,7 @@ kl. 13.00-15.00 fånga flaggan
 kl. 15.00-16.00 hämtning och fri lek
 
 
-
+---
 
 ### Anmälning till lägren
 
@@ -56,8 +58,10 @@ Anmälan till en vecka sker via länken:
 WEE-rabatt!
 Har ert barn deltagit i någon av våra klubbar tidigare? Ta i så fall kontakt med oss, så får ni en rabattkod som ger 15% rabatt på slutsumman.
 
+---
 
 OBS! Minimideltagarmängd: 10
 
+---
 
 Inhibering av plats måste ske senast före 15.05.2020 för att kunna få 50% av summan tillbaka.
