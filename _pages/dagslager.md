@@ -25,6 +25,7 @@ Lägervecka 3: 15-18.6
 Vi håller en grupp för 6-9 år och en för 10-12 år.
 
 
+
 Dagstidtabell (exempel):
 
 kl. 8.00-9.00 samling och fri lek 
@@ -36,6 +37,7 @@ kl. 12.00 matpaus
 kl. 13.00-15.00 fånga flaggan
 
 kl. 15.00-16.00 hämtning och fri lek
+
 
 
 ### Anmälning till lägren
