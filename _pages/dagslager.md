@@ -4,7 +4,7 @@ title: WEEMOVE Sommarläger
 image: /uploads/weemove-illustration-2.png
 ---
 
-### WEEMOVE håller sommarläger!
+## WEEMOVE håller sommarläger!
 Välkommen med på WEEMOVEs dagsläger på Drumsö! Under lägret är vi utomhus så mycket som möjligt under dagen och har två aktivitetspass per dag. Vi fortsätter tangera bekanta teman från förut som parkour och bollspel av olika slag, men har dessutom inslag av cirkus, motion till musik och äventyr utomhus. Med andra ord finns det program för alla! Resten av tiden är det fri lek och utomhusvistelse.
 
 Eget mellanmål skall tas med. Ifall lekparken Lahnalahti arrangerar sommarlunch kommer vi att gå dit och äta lunch.
