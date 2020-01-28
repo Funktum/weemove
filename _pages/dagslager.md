@@ -33,7 +33,7 @@ kl. 13.00-15.00 fånga flaggan
 kl. 15.00-16.00 hämtning och fri lek
 
 
-Anmälning
+### Anmälning till lägren
 
 
 Ifall ni anmäler ert barn till mera än en lägervecka får ni 10% rabatt på slutsumman.
