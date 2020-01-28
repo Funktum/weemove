@@ -15,9 +15,11 @@ Välkommen med!
 
 ### Information
 
-Var?
+Var? 
+
 
 Drumsö.
+
 
 När?
 
@@ -27,7 +29,9 @@ Lägervecka 2: 8-12.6
 
 Lägervecka 3: 15-18.6
 
-För vem?
+För vem? 
+
+
 En grupp för 6-9 år och en för 10-12 år.
 
 Dagstidtabell (exempel):
