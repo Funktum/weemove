@@ -1,7 +1,6 @@
 ---
 layout: page
 title: WEEMOVE Sommarläger
-image: /uploads/weemove-illustration-2.png
 ---
 
 <img src="../uploads/weemove-illustration-2.png" alt="WEEMOVE illustration">
