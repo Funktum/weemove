@@ -6,13 +6,12 @@ title: WEEMOVE Sommarläger
 <img src="../uploads/weemove-illustration-2.png" alt="WEEMOVE illustration">
 
 
-# WEEMOVE håller sommarläger!
-
+## WEEMOVE håller sommarläger!
 Välkommen med på WEEMOVEs dagsläger på Drumsö! Lägret hålls utomhus och vi rör oss omkring på Drumsö under dagarna. Vi fortsätter tangera bekanta teman från förut som parkour och bollspel av olika slag, men har dessutom inslag av cirkus, motion till musik och äventyr utomhus. Med andra ord finns det program för alla! 
 
+Egen mat och mellanmål skall tas med.
 
 Välkommen med!
-
 
 ---
 
@@ -25,13 +24,6 @@ Lägervecka 2: 8-12.6
 Lägervecka 3: 15-18.6
 
 Vi håller en grupp för 6-9 år och en för 10-13 år.
-
-
-Som samnlings-, och hämtningsplats fungerar Cykelparken/ Nuori Suomi parken bredvid Drumsö lågstadieskoloa mellan klockan 08.00 och 10.00. Hämtningen sker mellan 15.00-16.00 i samma park. Under dagen kommer vi att röra oss omkring på Drumsö och ha variernade aktiviteter utomhus.
-
-Vi arrangerar ingen skild lunch utan alla skall ha med egen mat (lunch + mellanmål). 
-
-Lägret hålls utomhus så lämpliga kläder beroende på väder är viktigt. Ifall vi bestämmer oss för att gå och simma kommer vi att meddela skilt om detta dagen före, så att alla har möjlighet att ta med sig simsaker. 
 
 ---
 
@@ -59,7 +51,10 @@ Ifall ni anmäler ert barn till mera än en lägervecka får ni 10% rabatt på s
 Anmälan till mera än en lägervecka sker via e-mail: linnea@funktum.fi
 
 
-Anmälan till en vecka sker via länken: 
+---
+WEEMOVE Sommarläger 6-9år, 1.6 - 5.6.2020: [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e34361af146f3d4158b4567)
+
+---
 
 
 WEE-rabatt!
