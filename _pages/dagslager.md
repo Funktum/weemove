@@ -7,11 +7,9 @@ title: WEEMOVE Sommarläger
 
 
 ## WEEMOVE håller sommarläger!
-Välkommen med på WEEMOVEs dagsläger på Drumsö! Under lägret är vi utomhus så mycket som möjligt under dagen och har två aktivitetspass per dag. Vi fortsätter tangera bekanta teman från förut som parkour och bollspel av olika slag, men har dessutom inslag av cirkus, motion till musik och äventyr utomhus. Med andra ord finns det program för alla! Resten av tiden är det fri lek och utomhusvistelse.
+Välkommen med på WEEMOVEs dagsläger på Drumsö! Lägret hålls utomhus och vi rör oss omkring på Drumsö under dagarna. Vi fortsätter tangera bekanta teman från förut som parkour och bollspel av olika slag, men har dessutom inslag av cirkus, motion till musik och äventyr utomhus. Med andra ord finns det program för alla! 
 
-Eget mellanmål skall tas med. Ifall lekparken Lahnalahti arrangerar sommarlunch kommer vi att gå dit och äta lunch.
-
-Senare under våren informerar vi närmare uppgifter om samlings-, och hämtningsplatsen, eventuella inomhusutrymmen och vad barnen behöver med sig på lägret.
+Egen mat och mellanmål skall tas med.
 
 Välkommen med!
 
@@ -25,14 +23,14 @@ Lägervecka 2: 8-12.6
 
 Lägervecka 3: 15-18.6
 
-Vi håller en grupp för 6-9 år och en för 10-12 år.
+Vi håller en grupp för 6-9 år och en för 10-13 år.
 
 ---
 
 
 ### Exempel på dagstidtabell:
 
-kl. 8.00-9.00 samling och fri lek 
+kl. 8.00-10.00 samling och fri lek 
 
 kl. 10.00-12.00 parkour
 
