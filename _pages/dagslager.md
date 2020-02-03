@@ -54,11 +54,15 @@ Anmälan till mera än en lägervecka sker via e-mail: linnea@funktum.fi
 ---
 
 WEEMOVE Sommarläger 6-9år, 1.6 - 5.6.2020: [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e34361af146f3d4158b4567)
+
 WEEMOVE Sommarläger 10-13år, 1.6 - 5.6.2020: [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e344ae4c2692f5e438b4579)
+
 WEEMOVE Sommarläger 6-9år, 8.6 - 12.6.2020: [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e344bf6f146f3a9358b4568)
+
 WEEMOVE Sommarläger 10-13år, 8.6 - 12.6.2020: [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e344cd81dd9cc80218b4571)
 
 WEEMOVE Sommarläger 6-9år, 15.6 - 18.6.2020: [Anmälan](https://weemove.tapahtumiin.fi/fi/events/e/weemove-sommarlager-6-9-aringar/5e344d7df146f3bb348b456e)
+
 WEEMOVE Sommarläger 10-13år, 15.6 - 18.6.2020: [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e344e481dd9cc80218b4574?gid=p-5e344e49c2692ff3558b4568-0&as_new=1580726457)
 
 
