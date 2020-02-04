@@ -22,7 +22,7 @@ Lägervecka 3: 15-18.6
 
 Vi håller en grupp för 6-9 år och en för 10-13 år.
 
-Som samnlings-, och hämtningsplats fungerar Cykelparken/ Nuori Suomi parken bredvid Drumsö lågstadieskoloa mellan klockan 08.00 och 10.00. Hämtningen sker mellan 15.00-16.00 i samma park. Under dagen kommer vi att röra oss omkring på Drumsö och ha variernade aktiviteter utomhus.
+Som samnlings-, och hämtningsplats fungerar Hästskoparken/ Nuori Suomi parken bredvid Drumsö lågstadieskoloa mellan klockan 08.00 och 10.00. Hämtningen sker mellan 15.00-16.00 i samma park. Under dagen kommer vi att röra oss omkring på Drumsö och ha variernade aktiviteter utomhus.
 
 Vi arrangerar ingen skild lunch utan alla skall ha med egen mat (lunch + mellanmål). 
 
