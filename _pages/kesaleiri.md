@@ -36,9 +36,13 @@ ilmoitamme tästä erikseen päivää aikaisemmin.
 ### Esimerkki aikataulusta: 
 
 Klo 08.00 - 10.00 Kokoontuminen ja vapaata puuhastelua
+
 Klo 10.00 - 12.00 Parkour
+
 Klo 12.00 Lounastauko
+
 Klo 13.00 - 15.00 Lipunryöstö
+
 Klo 15.00 - 16.00 Nouto ja vapaata puuhastelua
 
 ---
