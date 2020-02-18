@@ -49,7 +49,7 @@ Klo 15.00 - 16.00 Nouto ja vapaata puuhastelua
 
 ### Leirille ilmoittautuminen
 
-Mikäli ilmoitatte lapsenne mukaan useammalle kuin yhdelle leirille saatte 10% alennusta kokonaishinnasta.  Tässä tapauksessa ilmoittakaa asiasta sähköpostitse osoitteeseen: sampsa@funktum.fi ja saatte alennuskoodin. 
+Mikäli ilmoitatte lapsenne mukaan useammalle kuin yhdelle leirille tai ilmoitatte useamman lapsen samasta perheestä saatte 10% alennusta kokonaishinnasta.  Tässä tapauksessa ilmoittakaa asiasta sähköpostitse osoitteeseen: sampsa@funktum.fi ja saatte alennuskoodin. 
 
 
 WEEMOVE Kesäleiri 6-9vuotiaat, 1.6 - 5.6.2020: [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e37d59068a8881d698b4574) 
