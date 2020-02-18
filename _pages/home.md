@@ -7,9 +7,13 @@ description: >-
   tunteita ja kasvattaa lapsen itseluottamusta. WEE-kerhot ovat iltapäivisin
   järjestettäviä liikuntakerhoja.
 hero_btn: '#wee-kerhot'
-hero_btn: {% include button.html url="https://weemove.tapahtumiin.fi/fi/p/bounce" text="Löydä lähin kerho" %}
 hero_btn_text: WEE-kerhot
 ---
+
+# WEEMOVE kesäleirit
+Weemove järjestää kesällä 2020 leiritoimintaa Lauttasaarella. Tutustukaa tarkemmin:
+{% include button.html url="https://weemove.fi/kesaleiri/" text="Kesäleiri" %}
+{% include button.html url="https://weemove.fi/dagslager/" text="Sommarläger" %}
 
 
 # Tarjoamme lapselle onnistumisia ohjatun liikunnan kautta
