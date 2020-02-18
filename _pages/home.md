@@ -12,7 +12,12 @@ hero_btn_text: WEE-kerhot
 
 # WEEMOVE kesäleirit
 Weemove järjestää kesällä 2020 leiritoimintaa Lauttasaarella. Tutustukaa tarkemmin:
+
 {% include button.html url="https://weemove.fi/kesaleiri/" text="Kesäleiri" %}
+
+### WEEMOVE ordnar sommarläger
+Weemove ordnar dagsläger på Drumsö under juni. Bekanta er noggrannare:
+
 {% include button.html url="https://weemove.fi/dagslager/" text="Sommarläger" %}
 
 
