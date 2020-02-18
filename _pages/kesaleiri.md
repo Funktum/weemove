@@ -5,10 +5,10 @@ title: WEEMOVE Kesäleiri
 
 <img src="../uploads/weemove-illustration-2.png" alt="WEEMOVE illustration">
 
-## WEEMVOE’n kesäleiri 2020!
+## WEEMOVE kesäleiri 2020!
 
-Tervetuloa mukaan WEEMOVEn päiväleirille Lauttasaarella! Leiri pidetään ulkona ja päivien aikana liikumme ympäri Lauttasaarta.
-Leirillä kokeillaan useita eri lajeja, kuten parkouria, pallopelejä, sirkusta ja liikuntaa musiikin tahtiin. 
+Tervetuloa mukaan WEEMOVEn päiväleirille Lauttasaareen! Leiri pidetään ulkona ja päivien aikana liikumme ympäri Lauttasaarta.
+Leirillä kokeillaan useita lajeja, kuten parkouria, pallopelejä, sirkusta ja liikuntaa musiikin tahtiin. 
 Mukaan mahtuu myös seikkailua. Ohjelmaa löytyy siis kaikille!
 
 ---
