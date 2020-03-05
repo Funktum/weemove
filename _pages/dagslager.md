@@ -78,6 +78,10 @@ Har ert barn deltagit i någon av våra klubbar tidigare? Ta i så fall kontakt 
 
 ---
 
+Läger priset: 168€/deltagare
+
+---
+
 OBS! Minimideltagarmängd: 10/läger
 
 ---
