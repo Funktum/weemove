@@ -52,17 +52,17 @@ Klo 15.00 - 16.00 Nouto ja vapaata puuhastelua
 Mikäli ilmoitatte lapsenne mukaan useammalle kuin yhdelle leirille tai ilmoitatte useamman lapsen samasta perheestä saatte 10% alennusta kokonaishinnasta.  Tässä tapauksessa ilmoittakaa asiasta sähköpostitse osoitteeseen: sampsa@funktum.fi ja saatte alennuskoodin. 
 
 
-WEEMOVE Kesäleiri 6-9vuotiaat, 1.6 - 5.6.2020: [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e37d59068a8881d698b4574) 
+WEEMOVE Kesäleiri 6-9vuotiaat, 1.6 - 5.6.2020 (168€): [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e37d59068a8881d698b4574) 
 
-WEEMOVE Kesäleiri 10-13vuotiaat, 1.6 - 5.6.2020: [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e345914f146f33b388b457f) 
+WEEMOVE Kesäleiri 10-13vuotiaat, 1.6 - 5.6.2020 (168€): [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e345914f146f33b388b457f) 
 
-WEEMOVE Kesäleiri 6-9vuotiaat, 8.6 - 12.6.2020: [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e344ff21dd9cc77298b456b) 
+WEEMOVE Kesäleiri 6-9vuotiaat, 8.6 - 12.6.2020 (168€): [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e344ff21dd9cc77298b456b) 
 
-WEEMOVE Kesäleiri 10-13vuotiaat, 8.6 - 12.6.2020: [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e37d64868a888bd758b4575) 
+WEEMOVE Kesäleiri 10-13vuotiaat, 8.6 - 12.6.2020 (168€): [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e37d64868a888bd758b4575) 
 
-WEEMOVE Kesäleiri 6-9vuotiaat, 15.6 - 18.6.2020: [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e37d74268a8884d758b456e) 
+WEEMOVE Kesäleiri 6-9vuotiaat, 15.6 - 18.6.2020 (135€): [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e37d74268a8884d758b456e) 
 
-WEEMOVE Kesäleiri 10-13vuotiaat, 15.6 - 18.6.2020: [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e37d7c27bfe9758738b456a) 
+WEEMOVE Kesäleiri 10-13vuotiaat, 15.6 - 18.6.2020 (135€): [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e37d7c27bfe9758738b456a) 
 
 ---
 
