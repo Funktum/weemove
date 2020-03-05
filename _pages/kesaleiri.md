@@ -64,11 +64,16 @@ WEEMOVE Kesäleiri 6-9vuotiaat, 15.6 - 18.6.2020: [Ilmoittautumiseen](https://w
 
 WEEMOVE Kesäleiri 10-13vuotiaat, 15.6 - 18.6.2020: [Ilmoittautumiseen](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e37d7c27bfe9758738b456a) 
 
+---
+
 WEE-ale! Onko sinun lapsesi osallistunut viimeisen vuoden aikana WEEMOVEN toimintaan? 
 Jos on, niin ota yhteyttä sampsa@funktum.fi ja saat 15% alennuskoodin.
 
+---
+
 _HUOM! Minimiosallistujamäärä on 10/leiri_
 
+---
 
 Ilmoittautuminen on sitova. Ilmoittautumisen voi perua ennen 15.05.2020, jolloin palautamme 50% leirimaksusta. 
 Myöhemmistä peruutuksista emme palauta leirimaksua. Sairastapauksissa leirimaksu voidaan maksaa takaisin, 
