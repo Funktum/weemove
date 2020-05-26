@@ -14,13 +14,11 @@ Välkommen med på WEEMOVEs dagsläger på Drumsö! Lägret hålls utomhus och v
 
 ### Information
 
-Lägervecka 1: 1-5.6
 
-Lägervecka 2: 8-12.6
+Datum 8-12.6
 
-Lägervecka 3: 15-18.6
 
-Vi håller en grupp för 6-9 år och en för 10-13 år.
+Vi håller en grupp för 6-9 år och en för 10-13 år. Ifall deltagarmängden är liten håller vi grupperna ihop men program som lämpar sig för alla åldrar.
 
 Som samlings-, och hämtningsplats fungerar Hästskoparken/ Nuori Suomi parken bredvid Drumsö lågstadieskola mellan klockan 08.00 och 10.00. Hämtningen sker mellan 15.00-16.00 i samma park.
 
@@ -46,28 +44,13 @@ kl. 15.00-16.00 hämtning och fri lek
 
 ---
 
-### Anmälning till lägren
-
-
-Ifall ni anmäler ert barn till mera än en lägervecka får ni 10% rabatt på slutsumman.
-
-Anmälan till mera än en lägervecka sker via e-mail: linnea@funktum.fi
-
+### Anmälning till lägret
 
 ---
-
-WEEMOVE Sommarläger 6-9år, 1.6 - 5.6.2020 (168€): [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e34361af146f3d4158b4567)
-
-WEEMOVE Sommarläger 10-13år, 1.6 - 5.6.2020 (168€): [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e344ae4c2692f5e438b4579)
 
 WEEMOVE Sommarläger 6-9år, 8.6 - 12.6.2020 (168€): [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e344bf6f146f3a9358b4568)
 
 WEEMOVE Sommarläger 10-13år, 8.6 - 12.6.2020 (168€): [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e344cd81dd9cc80218b4571)
-
-WEEMOVE Sommarläger 6-9år, 15.6 - 18.6.2020 (135€): [Anmälan](https://weemove.tapahtumiin.fi/fi/events/e/weemove-sommarlager-6-9-aringar/5e344d7df146f3bb348b456e)
-
-WEEMOVE Sommarläger 10-13år, 15.6 - 18.6.2020 (135€): [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e344e481dd9cc80218b4574?gid=p-5e344e49c2692ff3558b4568-0&as_new=1580726457)
-
 
 
 ---
@@ -79,8 +62,7 @@ Har ert barn deltagit i någon av våra klubbar tidigare? Ta i så fall kontakt 
 
 ---
 
-OBS! Minimideltagarmängd: 10/läger
+OBS! Minimideltagarmängd: 8 deltagare
 
 ---
 
-Inhibering av plats måste ske senast före 15.05.2020 för att kunna få 50% av summan tillbaka.
