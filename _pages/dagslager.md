@@ -15,7 +15,7 @@ Välkommen med på WEEMOVEs dagsläger på Drumsö! Lägret hålls utomhus och v
 ### Information
 
 
-Datum 8-12.6
+Datum 8 - 12.6
 
 
 Vi håller en grupp för 6-9 år och en för 10-13 år. Ifall deltagarmängden är liten håller vi grupperna ihop men program som lämpar sig för alla åldrar.
@@ -44,9 +44,7 @@ kl. 15.00-16.00 hämtning och fri lek
 
 ---
 
-### Anmälning till lägret
-
----
+### Anmälan till lägret
 
 WEEMOVE Sommarläger 6-9år, 8.6 - 12.6.2020 (168€): [Anmälan](https://weemove.tapahtumiin.fi/fi/nc/evtr/5e344bf6f146f3a9358b4568)
 
