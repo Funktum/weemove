@@ -10,6 +10,7 @@ hero_btn: '#wee-kerhot'
 hero_btn_text: WEE-kerhot
 ---
 
+<script async data-uid="88a440b2b3" src="https://dedicated-motivator-6934.ck.page/88a440b2b3/index.js"></script>
 
 
 # Tarjoamme lapselle onnistumisia ohjatun liikunnan kautta
