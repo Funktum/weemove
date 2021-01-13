@@ -6,6 +6,8 @@ title: Kerhosäännöt
 
 ![Kuvitus](/uploads/weemove-illustration-1.png)
 
+<script async data-uid="3bab25c275" src="https://dedicated-motivator-6934.ck.page/3bab25c275/index.js"></script>
+
 Seuraavilla säännöillä haluamme varmistaa että kaikilla lapsilla on turvallinen ja viihtyisä ympäristö harrastaa liikuntaa 
 omalla tasollaan. 
 
